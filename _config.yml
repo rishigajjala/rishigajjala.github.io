@@ -3,7 +3,6 @@ description: "Postdoc @ CQTS, quantum computing ∩ discrete algorithms"
 baseurl: ""
 url: "https://rishigajjala.github.io"
 
-theme: "just-the-docs"
 remote_theme: just-the-docs/just-the-docs
 
 plugins:

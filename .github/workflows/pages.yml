@@ -1,4 +1,4 @@
-name: pages
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -6,11 +6,11 @@ on:
       - main
 
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up Ruby
@@ -22,7 +22,7 @@ jobs:
         run: |
           gem install bundler jekyll
           bundle init
-          bundle add "just-the-docs"
+          bundle add just-the-docs
 
       - name: Build site
         run: bundle exec jekyll build
@@ -31,5 +31,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
           publish_dir: ./_site

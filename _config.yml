@@ -12,7 +12,6 @@ nav:
   - Home: index.md
   - Research: research.md
   - Publications: publications.md
-  - Blog: _posts/
 
 repository:
   url: "https://github.com/rishigajjala/rishigajjala.github.io"

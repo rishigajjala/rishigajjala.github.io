@@ -1,0 +1,16 @@
+title: "Rishikesh Gajjala"
+description: "Postdoc @ CQTS, quantum computing ∩ discrete algorithms"
+baseurl: ""
+url: "https://rishigajjala.github.io"
+
+theme: "just-the-docs"
+remote_theme: "pmarsceill/just-the-docs"
+
+nav:
+  - Home: index.md
+  - Research: research.md
+  - Publications: publications.md
+  - Blog: _posts/
+
+repository:
+  url: "https://github.com/rishigajjala/rishigajjala.github.io"

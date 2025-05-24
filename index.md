@@ -13,7 +13,7 @@
 <div style="text-align: center; padding: 10px 0; background-color: #f8f9fa; border-top: 1px solid #e0e0e0; border-bottom: 1px solid #e0e0e0; margin-top: 1.5em; margin-bottom: 1.5em;">
   <a href="#publications" style="margin: 0 15px; text-decoration: none; color: #007bff; font-weight: bold;">Publications</a> &nbsp;|&nbsp;
   <a href="#talks" style="margin: 0 15px; text-decoration: none; color: #007bff; font-weight: bold;">Talks</a> &nbsp;|&nbsp;
-  <a href="#mentoring" style="margin: 0 15px; text-decoration: none; color: #007bff; font-weight: bold;">Mentoring</a>
+  <a href="#mentoring" style="margin: 0 15px; text-decoration: none; color: #007bff; font-weight: bold;">Service</a>
 </div>
 
 <p style="text-align: center; margin-bottom: 2em;">

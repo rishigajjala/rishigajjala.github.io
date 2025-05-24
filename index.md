@@ -127,8 +127,8 @@
   <div style="height: 0.75em;"></div>
 
   <ul>
-    <li><em>Reviewed papers for</em> ICALP ’23, NeurIPS ’23, ICML ’24, IWOCA ’24, FOCS ’24, SODA ’25 and NeurIPS ’25</li>
-    <li><em>Teaching Assistant for</em> Graph Theory (Fall 2023 at IISc Bengaluru), Design & Analysis of Algorithms (Autumn 2021 at IISc Bengaluru), and Introduction to Parallel Programming (Autumn 2019 at IIT Delhi)</li>
-    <li><em>Mentored</em> Abraham M. Illickan (MFCS 2024, IIT Palakkad → UC Irvine), Jayanth Ravi (CCCG 2024, IIT Delhi) and Shravan Mehra (FSTTCS 2024, IISc Bangalore → Univ. of Birmingham)</li>
+    <li><em>Reviewer:</em> ICALP ’23, NeurIPS ’23, ICML ’24, IWOCA ’24, FOCS ’24, SODA ’25 and NeurIPS ’25</li>
+    <li><em>Teaching Assistant:</em> Graph Theory (Fall 2023 at IISc Bengaluru), Design & Analysis of Algorithms (Autumn 2021 at IISc Bengaluru), and Introduction to Parallel Programming (Autumn 2019 at IIT Delhi)</li>
+    <li><em>Mentoring:</em> Abraham M. Illickan (MFCS 2024, IIT Palakkad → UC Irvine), Jayanth Ravi (CCCG 2024, IIT Delhi) and Shravan Mehra (FSTTCS 2024, IISc Bangalore → Univ. of Birmingham)</li>
   </ul>
 </section>

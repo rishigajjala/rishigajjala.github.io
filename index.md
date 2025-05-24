@@ -1,5 +1,3 @@
-title: "Home"
----
 <div style="text-align: center; margin-bottom: 1em;">
   <img
     src="/images/headshot.jpg"
@@ -43,7 +41,6 @@ If you think you are working on a problem that I might find interesting, do not 
 ---
   
 # Publications
-h2 { margin-bottom: 1.5rem; }
 Remark: Author names are in alphabetical ordering (unless they are not). For theory work/venues, it is often standard practice to list authors by alphabetical ordering of last names.
 
 ## Graphs + Quantum
@@ -112,7 +109,6 @@ Remark: Author names are in alphabetical ordering (unless they are not). For the
 ---
 
 ## Talks
-h2 { margin-bottom: 1.5rem; }
 
 - **Krenn-Gu conjecture for sparse graphs**  
   Mathematical Foundations of Computer Science (MFCS), Slovakia [Slides](https://drive.google.com/file/d/1IIn8k61kOydnRpuuaqyNr052z6sInEUl/view)
@@ -133,7 +129,6 @@ h2 { margin-bottom: 1.5rem; }
 ---
 
 ## Mentoring
-h2 { margin-bottom: 1.5rem; }
 - **Abraham Mathew Illickan** (IIT Palakkad → UC Irvine) — MFCS 2024  
 - **Jayanth Ravi** (IIT Delhi) — CCCG 2024  
 - **Shravan Singh Mehra** (IISc Bangalore → University of Birmingham) — FSTTCS 2024

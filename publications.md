@@ -2,9 +2,9 @@
 title: "Publications"
 ---
   
-## Publications
+# Publications
 
-# Graphs + Quantum
+## Graphs + Quantum
 
 - **No distributed quantum advantage for approximate graph coloring**  
   with Xavier Coiteux-Roy, Francesco d'Amore, Fabian Kuhn, François Le Gall, Henrik Lievonen, Augusto Modanese, Marc-Olivier Renou, Gustav Schmid and Jukka Suomela  
@@ -26,7 +26,7 @@ title: "Publications"
 
 ---
 
-# Combinatorics + Model Counting
+## Combinatorics + Model Counting
 
 - **CNFs and DNFs with exactly _n_ solutions**  
   with Sunil Chandran and Kuldeep Meel  
@@ -34,7 +34,7 @@ title: "Publications"
   
 ---
 
-# Approximation Algorithms 
+## Approximation Algorithms 
 
 - **Two Results on LPT: A Near-Linear Time Algorithm and Parcel Delivery using Drones**  
    with Sunil Chandran and Shravan Mehra, Saladi Rahul  
@@ -46,7 +46,7 @@ title: "Publications"
 
 ---
 
-# Discrete Geometry    
+## Discrete Geometry    
       
 - **Improved upper bounds for the Heilbronn’s Problem for k-gons**  
    with Jayanth Ravi  
@@ -54,7 +54,7 @@ title: "Publications"
 
 ---
 
-# Learning Theory   
+## Learning Theory   
 
 - **Learning Sparse Fixed-Structure Gaussian Bayesian Networks**  
    with Arnab Bhattacharyya, Davin Choo, Sutanu Gayen and Yuhao Wang  
@@ -62,7 +62,7 @@ title: "Publications"
 
 ---
 
-# Deep Learning
+## Deep Learning
 
 - **Huffman Coding Based Encoding Techniques for Fast Distributed Deep Learning**  
    with Shashwat Banchhor, Ahmed Sayed, Aritra Dutta, Marco Canini, Panos Kalnis  

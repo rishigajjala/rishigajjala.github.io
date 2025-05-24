@@ -1,18 +1,18 @@
+# _config.yml
+
 title: "Rishikesh Gajjala"
 description: "Postdoc @ CQTS, quantum computing ∩ discrete algorithms"
 baseurl: ""
 url: "https://rishigajjala.github.io"
 
+# ⚡️ Use only remote_theme, no local theme:
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
   - jekyll-remote-theme
 
-# ⬇️ disable the sidebar everywhere
+# sidebar off
 nav_enabled: false
-
-nav:
-  - Home: index.md
 
 repository:
   url: "https://github.com/rishigajjala/rishigajjala.github.io"

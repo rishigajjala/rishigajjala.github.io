@@ -12,7 +12,6 @@ If you think you are working on a problem that I might find interesting, do not 
 </div>
 
 <p>
-  <div style="margin: 1em 0; text-align: center;">
   <a href="https://www.linkedin.com/in/rishikesh-gajjala-3100a0328/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" style="width:1em; height:1em; vertical-align:middle; margin-right:4px;" />
     LinkedIn

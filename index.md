@@ -123,7 +123,7 @@
 <hr />
 
 <section id="mentoring">
-  <h1 style="text-align: left;">Mentoring</h1>
+  <h1 style="text-align: left;">Service</h1>
   <div style="height: 0.75em;"></div> <ul>
     <li><strong>Abraham Mathew Illickan</strong> (IIT Palakkad → UC Irvine) — MFCS 2024</li>
     <li><strong>Jayanth Ravi</strong> (IIT Delhi) — CCCG 2024</li>

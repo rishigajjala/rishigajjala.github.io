@@ -3,10 +3,10 @@ title: "Home"
 ---
 
 <div style="text-align: center; margin-bottom: 1em;">
-  <img 
-    src="{{ 'headshot.jpg' | relative_url }}" 
-    alt="Rishikesh Gajjala" 
-    style="border-radius:50%; width:150px; height:150px;" 
+  <img
+    src="{{ '/images/headshot.jpg' | relative_url }}"
+    alt="Rishikesh Gajjala"
+    style="border-radius:50%; width:150px; height:150px;"
   />
 </div>
 

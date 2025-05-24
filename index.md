@@ -1,3 +1,4 @@
+<style>html { scroll-behavior: smooth; }</style>
 ---
 title: "Home"
 ---
@@ -45,10 +46,10 @@ If you think you are working on a problem that I might find interesting, do not 
 ---
   
 # Publications
+h2 { margin-bottom: 1.5rem; }
 Remark: Author names are in alphabetical ordering (unless they are not). For theory work/venues, it is often standard practice to list authors by alphabetical ordering of last names.
 
 ## Graphs + Quantum
-
 - **No distributed quantum advantage for approximate graph coloring**  
   with [Xavier Coiteux-Roy](https://scholar.google.com/citations?user=FVy9CeAAAAAJ&hl=fr), [Francesco d'Amore](https://fdamore95.github.io), [Fabian Kuhn](https://ac.informatik.uni-freiburg.de/kuhn/), [François Le Gall](http://francoislegall.com), [Henrik Lievonen](https://henriklievonen.fi), [Augusto Modanese](https://augusto.modanese.net), [Marc-Olivier Renou](https://marcolivierrenou.com), [Gustav Schmid](https://ac.informatik.uni-freiburg.de/schmid/) and [Jukka Suomela](https://jukkasuomela.fi)  
    *ACM Symposium on Theory of Computing* [(STOC 2024)](https://arxiv.org/abs/2307.09444)
@@ -114,6 +115,7 @@ Remark: Author names are in alphabetical ordering (unless they are not). For the
 ---
 
 ## Talks
+h2 { margin-bottom: 1.5rem; }
 
 - **Krenn-Gu conjecture for sparse graphs**  
   Mathematical Foundations of Computer Science (MFCS), Slovakia [Slides](https://drive.google.com/file/d/1IIn8k61kOydnRpuuaqyNr052z6sInEUl/view)
@@ -134,7 +136,7 @@ Remark: Author names are in alphabetical ordering (unless they are not). For the
 ---
 
 ## Mentoring
-
+h2 { margin-bottom: 1.5rem; }
 - **Abraham Mathew Illickan** (IIT Palakkad → UC Irvine) — MFCS 2024  
 - **Jayanth Ravi** (IIT Delhi) — CCCG 2024  
 - **Shravan Singh Mehra** (IISc Bangalore → University of Birmingham) — FSTTCS 2024

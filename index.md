@@ -1,7 +1,7 @@
-<style>html { scroll-behavior: smooth; }</style>
 ---
 title: "Home"
 ---
+<style>html { scroll-behavior: smooth; }</style>
 
 <div style="text-align: center; margin-bottom: 1em;">
   <img

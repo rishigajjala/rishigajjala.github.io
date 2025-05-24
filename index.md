@@ -104,7 +104,7 @@ Remark: Author names are in alphabetical ordering (unless they are not). For the
 
 - **No distributed quantum advantage for approximate graph coloring** <a href="https://eecs.iisc.ac.in/EECS2024/" target="_blank" rel="noopener noreferrer">EECS Research Symposium</a> — *Winner of Best Presentation Award*
 
-- **Designing quantum experiments via Graph Theory** <a href="https://www.pmrf.in/symposium-2023" target="_blank" rel="noopener noreferrer">PMRF Research Symposium</a> — *Winner of Best Poster Award* <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE" target="_blank" rel="noopener noreferrer">IISc–MSR Theory Seminar</a> <a href="http://dmatheorynet.blogspot.com/2022/04/dmanet-algorithmic-graph-theory-seminar.html" target="_blank" rel="noopener noreferrer">Algorithmic Graph Theory seminar series</a>  
+- **Designing quantum experiments via Graph Theory** <a href="https://www.pmrf.in/symposium-2023" target="_blank" rel="noopener noreferrer">PMRF Research Symposium</a> — *Winner of Best Poster Award* <a href="https://youtu.be/Sc9f_n62B10?si=Be0PftzhzIJD_HbI" target="_blank" rel="noopener noreferrer">IISc–MSR Theory Seminar</a> <a href="http://dmatheorynet.blogspot.com/2022/04/dmanet-algorithmic-graph-theory-seminar.html" target="_blank" rel="noopener noreferrer">Algorithmic Graph Theory seminar series</a>  
   <a href="https://ncatlab.org/nlab/show/Center+for+Quantum+and+Topological+Systems#CQTSColloquium" target="_blank" rel="noopener noreferrer">Quantum Colloquium @ NYU Abu Dhabi</a>  
 
 ---

@@ -122,11 +122,27 @@
 
 <hr />
 
-<section id="mentoring">
+<section id="service">
   <h1 style="text-align: left;">Service</h1>
-  <div style="height: 0.75em;"></div> <ul>
+  <div style="height: 0.75em;"></div>
+
+  <h2 style="text-align: left;">Mentoring</h2>
+  <ul>
     <li><strong>Abraham Mathew Illickan</strong> (IIT Palakkad → UC Irvine) — MFCS 2024</li>
     <li><strong>Jayanth Ravi</strong> (IIT Delhi) — CCCG 2024</li>
     <li><strong>Shravan Singh Mehra</strong> (IISc Bangalore → University of Birmingham) — FSTTCS 2024</li>
+  </ul>
+
+  <h2 style="text-align: left;">Teaching</h2>
+  <ul>
+    <li><em>Teaching Assistant</em>, Graph Theory, IISc Bengaluru — Fall 2023</li>
+    <li><em>Teaching Assistant</em>, Design &amp; Analysis of Algorithms, IISc Bengaluru — Autumn 2021</li>
+    <li><em>Teaching Assistant</em>, Intro to Parallel Programming (NPTEL, IIT Delhi) — Autumn 2019</li>
+    <li><em>Institute Captain</em>, Aquatics Team, IIT Delhi — 2018</li>
+  </ul>
+
+  <h2 style="text-align: left;">Academic Service</h2>
+  <ul>
+    <li><em>Reviewed papers for</em> ICALP ’23, NeurIPS ’23, ICML ’24, IWOCA ’24, FOCS ’24, SODA ’25 and NeurIPS ’25</li>
   </ul>
 </section>

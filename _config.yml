@@ -8,6 +8,9 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 
+# ⬇️ disable the sidebar everywhere
+nav_enabled: false
+
 nav:
   - Home: index.md
 

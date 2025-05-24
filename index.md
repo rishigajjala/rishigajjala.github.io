@@ -7,10 +7,7 @@ If you think you are working on a problem that I might find interesting, do not 
 
 - 📄 [Publications](#Publications)
 - 🔬 [News](news.md)
-- 📫 Contact: rishigajjala@nyu.edu
 
-  ---
-title: "Publications"
 ---
   
 # Publications

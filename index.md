@@ -33,6 +33,7 @@ If you think you are working on a problem that I might find interesting, do not 
 ---
   
 # Publications
+Remark: Author names are in alphabetical ordering (unless they are not). For theory work/venues, it is often standard practice to list authors by alphabetical ordering of last names.
 
 ## Graphs + Quantum
 

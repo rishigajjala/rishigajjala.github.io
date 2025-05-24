@@ -127,10 +127,8 @@
   <div style="height: 0.75em;"></div>
 
   <ul>
-    <li><em>Teaching Assistant</em>, Graph Theory, IISc Bengaluru — Fall 2023</li>
-    <li><em>Teaching Assistant</em>, Design &amp; Analysis of Algorithms, IISc Bengaluru — Autumn 2021</li>
-    <li><em>Teaching Assistant</em>, Intro to Parallel Programming (NPTEL, IIT Delhi) — Autumn 2019</li>
     <li><em>Reviewed papers for</em> ICALP ’23, NeurIPS ’23, ICML ’24, IWOCA ’24, FOCS ’24, SODA ’25 and NeurIPS ’25</li>
+    <li><em>Teaching Assistant for </em>, Graph Theory (in Fall 2023 at IISc Bengaluru), Design &amp; Analysis of Algorithms (in Autumn 2021 at IISc Bengaluru), and Introduction to Parallel Programming (in Autumn 2019 at IIT Delhi)</li>
   </ul>
 
     <h2 style="text-align: left;">Mentoring</h2>

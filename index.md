@@ -5,7 +5,14 @@ I am a Post-Doctoral Researcher at the Center for Quantum and Topological System
 
 If you think you are working on a problem that I might find interesting, do not hesitate to reach out to me to chat about it at: r.gajjala@nyu.edu!
 
--  [Publications](#Publications) -  [Talks](#Talks) -  [Mentoring](#Mentoring)
+<div style="margin: 1em 0; text-align: center;">
+  <a href="#publications">Publications</a>  |  
+  <a href="#preprints">Preprints</a>  |  
+  <a href="#research-highlights">Research Highlights</a>  |  
+  <a href="#talks">Talks</a>  |  
+  <a href="#mentoring">Mentoring</a>  |  
+  <a href="#connect">Connect</a>
+</div>
 
 <p>
   <a href="https://www.linkedin.com/in/rishikesh-gajjala-3100a0328/" target="_blank">

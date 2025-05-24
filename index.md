@@ -7,28 +7,24 @@ If you think you are working on a problem that I might find interesting, do not 
 
 - 📄 [Publications](#Publications)
 - 🔬 [News](news.md)
-- [LinkedIn](https://www.linkedin.com/in/rishikesh-gajjala-3100a0328/)  
-- [Twitter](https://x.com/publishiperishi) 
-- [DBLP](https://dblp.org/pid/your-dblp-id.html)  
-- [Google Scholar](https://scholar.google.com/citations?user=aXWXwMIAAAAJ&hl=en&oi=ao)
 
 <p>
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/rishikesh-gajjala-3100a0328/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/linkedin.svg" alt="LinkedIn" style="width:1em; height:1em; vertical-align:middle; margin-right:4px;" />
     LinkedIn
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://x.com/publishiperishi" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" alt="Twitter" style="width:1em; height:1em; vertical-align:middle; margin-right:4px;" />
     Twitter
   </a>
   &nbsp;&nbsp;
-  <a href="https://dblp.org/pid/your-dblp-id.html" target="_blank">
+  <a href="https://dblp.org/pid/266/6291.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/dblp.svg" alt="DBLP" style="width:1em; height:1em; vertical-align:middle; margin-right:4px;" />
     DBLP
   </a>
   &nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=your-scholar-id" target="_blank">
+  <a href="https://scholar.google.com/citations?user=aXWXwMIAAAAJ&hl=en&oi=ao" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/googlescholar.svg" alt="Google Scholar" style="width:1em; height:1em; vertical-align:middle; margin-right:4px;" />
     Google Scholar
   </a>

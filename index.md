@@ -2,6 +2,14 @@
 title: "Home"
 ---
 
+<div style="text-align: center; margin-bottom: 1em;">
+  <img 
+    src="{{ 'headshot.jpg' | relative_url }}" 
+    alt="Rishikesh Gajjala" 
+    style="border-radius:50%; width:150px; height:150px;" 
+  />
+</div>
+
 I am a Post-Doctoral Researcher at the Center for Quantum and Topological Systems ([CQTS](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts.html)) at New York University in Abu Dhabi. Prior to this, I completed my PhD in Theoretical Computer Science at the Indian Institute of Science (IISc) and my Bachelor’s degree in Computer Science at the Indian Institute of Technology, Delhi (IITD).
 
 If you think you are working on a problem that I might find interesting, do not hesitate to reach out to me to chat about it at: r.gajjala@nyu.edu!

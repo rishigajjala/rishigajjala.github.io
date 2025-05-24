@@ -4,7 +4,7 @@ title: "Home"
 
 <div style="text-align: center; margin-bottom: 1em;">
   <img
-    src="{{ '/images/headshot.jpg' | relative_url }}"
+    src="/images/headshot.jpg"
     alt="Rishikesh Gajjala"
     style="border-radius:50%; width:150px; height:150px;"
   />

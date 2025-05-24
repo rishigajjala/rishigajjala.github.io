@@ -7,6 +7,10 @@ If you think you are working on a problem that I might find interesting, do not 
 
 - 📄 [Publications](#Publications)
 - 🔬 [News](news.md)
+- [LinkedIn](https://www.linkedin.com/in/rishikesh-gajjala-3100a0328/)  
+- [Twitter](https://x.com/publishiperishi) 
+- [DBLP](https://dblp.org/pid/your-dblp-id.html)  
+- [Google Scholar](https://scholar.google.com/citations?user=aXWXwMIAAAAJ&hl=en&oi=ao)
 
 ---
   

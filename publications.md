@@ -1,13 +1,6 @@
 ---
 title: "Publications"
 ---
-## Preprints
-
-  
-  **Under revision** at *The Electronic Journal of Combinatorics*  
-  📜 [Quantum-Graph Best-Paper Award](https://mariokrenn.wordpress.com/graph-theory-question/)
-
----
   
 ## Publications
 
@@ -38,6 +31,8 @@ title: "Publications"
 - **CNFs and DNFs with exactly _n_ solutions**  
   with Sunil Chandran and Kuldeep Meel  
   In Review.
+  
+---
 
 # Approximation Algorithms 
 
@@ -49,11 +44,15 @@ title: "Publications"
    with Shashwat Banchhor and Yogish Sabharwal, Sandeep Sen  
    *Foundations of Software Technology and Theoretical Computer Science* [(FSTTCS 2021)](https://arxiv.org/abs/2010.05005)   
 
+---
+
 # Discrete Geometry    
       
 - **Improved upper bounds for the Heilbronn’s Problem for k-gons**  
    with Jayanth Ravi  
    *Canadian Conference on Computational Geometry* [(CCCG 2024)](https://arxiv.org/abs/2405.12945)
+
+---
 
 # Learning Theory   
 
@@ -61,8 +60,9 @@ title: "Publications"
    with Arnab Bhattacharyya, Davin Choo, Sutanu Gayen and Yuhao Wang  
    *International Conference on Artificial Intelligence and Statistics* [(AISTATS 2022)](https://arxiv.org/abs/2107.10450)
 
-# Deep Learning
+---
 
+# Deep Learning
 
 - **Huffman Coding Based Encoding Techniques for Fast Distributed Deep Learning**  
    with Shashwat Banchhor, Ahmed Sayed, Aritra Dutta, Marco Canini, Panos Kalnis  

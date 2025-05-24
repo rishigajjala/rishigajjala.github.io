@@ -1,7 +1,20 @@
 ---
 title: "Publications"
 ---
+## Preprints
 
+- **Perfect Matchings and Quantum Physics: Progress on Krenn’s Conjecture**  
+  L. Sunil Chandran, **Rishikesh Gajjala**  
+  *(Preprint)* [(arXiv:2202.05562)](https://arxiv.org/abs/2202.05562)  
+  **Under revision** at *The Electronic Journal of Combinatorics*  
+  📜 [Quantum-Graph Best-Paper Award](https://mariokrenn.wordpress.com/graph-theory-question/)
+
+- **CNFs and DNFs with exactly _n_ solutions**  
+  Sunil Chandran, **Rishikesh Gajjala**, Kuldeep Meel  
+  **In Review**
+
+---
+  
 ## Publications
 
 1. **No distributed quantum advantage for approximate graph coloring**  
@@ -44,16 +57,4 @@ title: "Publications"
     Shashwat Banchhor, **Rishikesh R. Gajjala**, Yogish Sabharwal, Sandeep Sen  
     *Data Compression Conference* [(DCC 2020)](https://ieeexplore.ieee.org/document/9105878)
 
----
 
-## Preprints
-
-- **Perfect Matchings and Quantum Physics: Progress on Krenn’s Conjecture**  
-  L. Sunil Chandran, **Rishikesh Gajjala**  
-  *(Preprint)* [(arXiv:2202.05562)](https://arxiv.org/abs/2202.05562)  
-  **Under revision** at *The Electronic Journal of Combinatorics*  
-  📜 [Quantum-Graph Best-Paper Award](https://mariokrenn.wordpress.com/graph-theory-question/)
-
-- **CNFs and DNFs with exactly _n_ solutions**  
-  Sunil Chandran, **Rishikesh Gajjala**, Kuldeep Meel  
-  **In Review** at *Journal of Combinatorial Theory, Series A*

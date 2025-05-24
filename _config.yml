@@ -2,17 +2,26 @@
 
 title: "Rishikesh Gajjala"
 description: "Postdoc @ CQTS, quantum computing ∩ discrete algorithms"
-baseurl: ""
+baseurl: "" # Usually empty if hosted at the root of the domain
 url: "https://rishigajjala.github.io"
 
 # ⚡️ Use only remote_theme, no local theme:
 remote_theme: just-the-docs/just-the-docs
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-remote-theme # Corrected indentation
 
-# sidebar off
-nav_enabled: false
+# Sidebar off
+nav_enabled: false # This is fine if you prefer the single-page style navigation
 
 repository:
-  url: "https://github.com/rishigajjala/rishigajjala.github.io"
+  url: "https://github.com/rishigajjala/rishigajjala.github.io" # Corrected indentation
+
+# Optional: Just-the-Docs specific configurations
+# color_scheme: "dark" # Or "light", or custom. Default is light.
+# logo: "/assets/images/logo.png" # If you have a logo
+# search_enabled: true # Already true by default with just-the-docs, good to keep
+
+# Optional: Add a favicon
+# head_custom:
+#   - '<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">' # Add your favicon to the root or assets

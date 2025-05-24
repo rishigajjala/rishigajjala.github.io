@@ -99,4 +99,30 @@ Remark: Author names are in alphabetical ordering (unless they are not). For the
    with [Shashwat Banchhor](https://www.linkedin.com/in/shashwat-banchhor-a0305012a), [Ahmed Sayed](http://eecs.qmul.ac.uk/~ahmed/), [Aritra Dutta](https://sciences.ucf.edu/math/person/aritra-dutta/), [Marco Canini](https://mcanini.github.io), [Panos Kalnis](https://scholar.google.com/citations?user=-NdSrrYAAAAJ&hl=en)  
    *CoNEXT Distributed ML Workshop* [(DistributedML 2020)](https://dl.acm.org/doi/10.1145/3426745.3431334)
 
+---
 
+## Talks
+
+- **Krenn-Gu conjecture for sparse graphs**  
+  Mathematical Foundations of Computer Science (MFCS), Slovakia [Slides](https://drive.google.com/file/d/1IIn8k61kOydnRpuuaqyNr052z6sInEUl/view)
+
+- **A combinatorial problem from weighted model counting**  
+  [Helsinki CS Theory Seminar](https://research.cs.aalto.fi/theory/seminar/seminar.html)
+  [Algorithmic Graph Theory seminar series](http://dmatheorynet.blogspot.com/2022/04/dmanet-algorithmic-graph-theory-seminar.html)
+
+- **No distributed quantum advantage for approximate graph coloring**  
+  [EECS Research Symposium](https://eecs.iisc.ac.in/EECS2024/) — *Winner of Best Presentation Award*
+
+- **Designing quantum experiments via Graph Theory**  
+  [PMRF Research Symposium](https://www.pmrf.in/symposium-2023) — *Winner of Best Poster Award* 
+  [IISc–MSR Theory Seminar](https://www.youtube.com/watch?v=Sc9f_n62B10)
+  [Algorithmic Graph Theory seminar series](http://dmatheorynet.blogspot.com/2022/04/dmanet-algorithmic-graph-theory-seminar.html)
+  [Quantum Colloquium @ NYU Abu Dhabi](https://ncatlab.org/nlab/show/Center+for+Quantum+and+Topological+Systems#CQTSColloquium)
+
+---
+
+## Mentoring
+
+- **Abraham Mathew Illickan** (IIT Palakkad → UC Irvine) — MFCS 2024  
+- **Jayanth Ravi** (IIT Delhi) — CCCG 2024  
+- **Shravan Singh Mehra** (IISc Bangalore → University of Birmingham) — FSTTCS 2024

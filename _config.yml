@@ -10,8 +10,6 @@ plugins:
 
 nav:
   - Home: index.md
-  - Research: research.md
-  - Publications: publications.md
 
 repository:
   url: "https://github.com/rishigajjala/rishigajjala.github.io"

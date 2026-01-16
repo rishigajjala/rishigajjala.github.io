@@ -37,6 +37,13 @@
   <h1 style="text-align: left;">Publications</h1>
   <div style="height: 0.75em;"></div> Remark: Author names are in alphabetical ordering (unless they are not). For theory work/venues, it is often standard practice to list authors by alphabetical ordering of last names.
 
+    <h2>Combinatorics + Model Counting</h2>
+  <ul>
+    <li><strong>CNFs and DNFs with exactly _n_ solutions</strong><br />
+    with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://www.cs.toronto.edu/~meel/" target="_blank" rel="noopener noreferrer">Kuldeep Meel</a><br />
+   <em>International Conference on Theory and Applications of Satisfiability Testing. </em> (<a href="https://arxiv.org/abs/2506.07268" target="_blank" rel="noopener noreferrer">SAT 2025</a>)</li>
+  </ul>
+
   <h2>Graphs + Quantum</h2>
   <ul>
     <li><strong>No distributed quantum advantage for approximate graph coloring</strong><br />
@@ -57,12 +64,6 @@
     In revision at <em>The Electronic Journal of Combinatorics</em> 📜 <a href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></li>
   </ul>
 
-  <h2>Combinatorics + Model Counting</h2>
-  <ul>
-    <li><strong>CNFs and DNFs with exactly _n_ solutions</strong><br />
-    with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://www.cs.toronto.edu/~meel/" target="_blank" rel="noopener noreferrer">Kuldeep Meel</a><br />
-    In Review.</li>
-  </ul>
   
   <h2>Approximation Algorithms</h2>
   <ul>

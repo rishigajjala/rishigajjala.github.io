@@ -314,7 +314,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
       </article>
       <article>
         <h3>Teaching Assistant</h3>
-        <p>Graph Theory at IISc Bengaluru, Design &amp; Analysis of Algorithms at IISc Bengaluru, and Introduction to Parallel Programming at IIT Delhi.</p>
+        <p>Quantum Computing at NYU Abu Dhabi. Graph Theory and Design &amp; Analysis of Algorithms at IISc Bengaluru, and Introduction to Parallel Programming at IIT Delhi.</p>
       </article>
       <article>
         <h3>Mentoring</h3>

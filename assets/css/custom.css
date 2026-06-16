@@ -301,6 +301,10 @@ footer .d-md-none {
   box-shadow: 0 8px 26px rgba(37, 50, 77, 0.07);
 }
 
+.pub-table-wrap .table-wrapper {
+  display: contents;
+}
+
 .pub-table {
   width: 100%;
   min-width: 760px;
@@ -373,6 +377,7 @@ footer .d-md-none {
 }
 
 .pub-note {
+  display: block;
   margin-top: 0.45rem;
   font-size: 0.82rem;
   font-weight: 750;

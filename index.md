@@ -169,10 +169,9 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td>
               <strong>Edge-coloured graphs with only monochromatic perfect matchings and their connection to quantum physics</strong>
               <div class="pub-tags-line"></div>
-              <div class="pub-note"><a href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">Preprint</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></td>
             <td>2022</td>
           </tr>
           <tr data-topics="Approximation Algorithms, Data Compression">

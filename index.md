@@ -60,6 +60,12 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
 
     <div class="pub-table-wrap">
       <table id="pub-table" class="pub-table">
+        <colgroup>
+          <col class="pub-col-title">
+          <col class="pub-col-authors">
+          <col class="pub-col-venue">
+          <col class="pub-col-year">
+        </colgroup>
         <thead>
           <tr>
             <th scope="col">Title</th>
@@ -163,6 +169,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td>
               <strong>Perfect Matchings and Quantum Physics: Progress on Krenn’s Conjecture</strong>
               <div class="pub-tags-line"></div>
+              <div class="pub-note"><a href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
             <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">Preprint</a></td>

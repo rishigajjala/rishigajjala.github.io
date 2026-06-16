@@ -310,6 +310,22 @@ footer .d-md-none {
   font-size: 0.92rem;
 }
 
+.pub-col-title {
+  width: 46%;
+}
+
+.pub-col-authors {
+  width: 34%;
+}
+
+.pub-col-venue {
+  width: 12%;
+}
+
+.pub-col-year {
+  width: 8%;
+}
+
 .pub-table th,
 .pub-table td {
   padding: 0.9rem 0.85rem;
@@ -354,6 +370,13 @@ footer .d-md-none {
   flex-wrap: wrap;
   gap: 0.35rem;
   margin-top: 0.55rem;
+}
+
+.pub-note {
+  margin-top: 0.45rem;
+  font-size: 0.82rem;
+  font-weight: 750;
+  line-height: 1.4;
 }
 
 .pub-tag-pill {

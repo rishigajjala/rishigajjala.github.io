@@ -48,7 +48,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
 
     <div class="pub-controls" aria-label="Publication filters">
       <div class="pub-controls-head">
-        <span>Filter by venue or year</span>
+        <span>Filter by topic</span>
         <span id="pub-count">13 papers</span>
       </div>
       <div id="pub-filter-chips" class="pub-filter-chips"></div>
@@ -69,7 +69,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
           </tr>
         </thead>
         <tbody>
-          <tr data-tags="2026, Preprint">
+          <tr data-topics="Graph Theory, Quantum Computing">
             <td>
               <strong>W-state graphs: Structure and Algorithms</strong>
               <div class="pub-tags-line"></div>
@@ -78,7 +78,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2605.04855" target="_blank" rel="noopener noreferrer">Preprint</a></td>
             <td>2026</td>
           </tr>
-          <tr data-tags="2026, Preprint">
+          <tr data-topics="Combinatorics, Graph Theory">
             <td>
               <strong>Counterexamples to an Extremal Conjecture for Random Cycle-Factors</strong>
               <div class="pub-tags-line"></div>
@@ -87,7 +87,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2604.26101" target="_blank" rel="noopener noreferrer">Preprint</a></td>
             <td>2026</td>
           </tr>
-          <tr data-tags="2026, JCTA">
+          <tr data-topics="Combinatorics, Model Counting">
             <td>
               <strong>On the smallest antichain that generates an ideal of a given size</strong>
               <div class="pub-tags-line"></div>
@@ -96,7 +96,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://dblp.org/db/journals/jcta/jcta222.html#journals/jcta/ChandranGM26" target="_blank" rel="noopener noreferrer">JCTA</a></td>
             <td>2026</td>
           </tr>
-          <tr data-tags="2025, SAT">
+          <tr data-topics="Combinatorics, Model Counting">
             <td>
               <strong>CNFs and DNFs with exactly <em>n</em> solutions</strong>
               <div class="pub-tags-line"></div>
@@ -105,7 +105,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2506.07268" target="_blank" rel="noopener noreferrer">SAT</a></td>
             <td>2025</td>
           </tr>
-          <tr data-tags="2024, STOC">
+          <tr data-topics="Quantum Computing, Distributed Computing">
             <td>
               <strong>No distributed quantum advantage for approximate graph coloring</strong>
               <div class="pub-tags-line"></div>
@@ -114,7 +114,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2307.09444" target="_blank" rel="noopener noreferrer">STOC</a></td>
             <td>2024</td>
           </tr>
-          <tr data-tags="2024, Quantum">
+          <tr data-topics="Graph Theory, Quantum Computing">
             <td>
               <strong>Graph-theoretic insights on the constructability of complex entangled states</strong>
               <div class="pub-tags-line"></div>
@@ -123,7 +123,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2304.06407" target="_blank" rel="noopener noreferrer">Quantum</a></td>
             <td>2024</td>
           </tr>
-          <tr data-tags="2024, MFCS">
+          <tr data-topics="Graph Theory, Quantum Computing">
             <td>
               <strong>Graph reduction approach to Krenn-Gu conjecture</strong>
               <div class="pub-tags-line"></div>
@@ -132,7 +132,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2407.00303" target="_blank" rel="noopener noreferrer">MFCS</a></td>
             <td>2024</td>
           </tr>
-          <tr data-tags="2024, FSTTCS">
+          <tr data-topics="Approximation Algorithms, Scheduling">
             <td>
               <strong>Two Results on LPT: A Near-Linear Time Algorithm and Parcel Delivery using Drones</strong>
               <div class="pub-tags-line"></div>
@@ -141,7 +141,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2407.16323" target="_blank" rel="noopener noreferrer">FSTTCS</a></td>
             <td>2024</td>
           </tr>
-          <tr data-tags="2024, CCCG">
+          <tr data-topics="Combinatorics, Discrete Geometry">
             <td>
               <strong>Improved upper bounds for the Heilbronn’s Problem for k-gons</strong>
               <div class="pub-tags-line"></div>
@@ -150,7 +150,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2405.12945" target="_blank" rel="noopener noreferrer">CCCG</a></td>
             <td>2024</td>
           </tr>
-          <tr data-tags="2022, AISTATS">
+          <tr data-topics="Learning Theory">
             <td>
               <strong>Learning Sparse Fixed-Structure Gaussian Bayesian Networks</strong>
               <div class="pub-tags-line"></div>
@@ -159,7 +159,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2107.10450" target="_blank" rel="noopener noreferrer">AISTATS</a></td>
             <td>2022</td>
           </tr>
-          <tr data-tags="2022, Preprint">
+          <tr data-topics="Graph Theory, Quantum Computing">
             <td>
               <strong>Perfect Matchings and Quantum Physics: Progress on Krenn’s Conjecture</strong>
               <div class="pub-tags-line"></div>
@@ -168,7 +168,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">Preprint</a></td>
             <td>2022</td>
           </tr>
-          <tr data-tags="2021, FSTTCS">
+          <tr data-topics="Algorithms, Coding">
             <td>
               <strong>Generalizations of Length Limited Huffman Coding for Hierarchical Memory Settings</strong>
               <div class="pub-tags-line"></div>
@@ -177,7 +177,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2010.05005" target="_blank" rel="noopener noreferrer">FSTTCS</a></td>
             <td>2021</td>
           </tr>
-          <tr data-tags="2020, DistributedML">
+          <tr data-topics="Coding, Deep Learning">
             <td>
               <strong>Huffman Coding Based Encoding Techniques for Fast Distributed Deep Learning</strong>
               <div class="pub-tags-line"></div>
@@ -200,15 +200,8 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
         if (!table || !chips || !count || !clear || !selectAll) return;
 
         const rows = Array.from(table.querySelectorAll("tbody tr"));
-        const tagsFor = (row) => row.dataset.tags.split(",").map((tag) => tag.trim()).filter(Boolean);
-        const labels = Array.from(new Set(rows.flatMap(tagsFor))).sort((a, b) => {
-          const yearA = /^\d{4}$/.test(a);
-          const yearB = /^\d{4}$/.test(b);
-          if (yearA && yearB) return Number(b) - Number(a);
-          if (yearA) return -1;
-          if (yearB) return 1;
-          return a.localeCompare(b);
-        });
+        const topicsFor = (row) => row.dataset.topics.split(",").map((topic) => topic.trim()).filter(Boolean);
+        const labels = Array.from(new Set(rows.flatMap(topicsFor))).sort((a, b) => a.localeCompare(b));
 
         chips.innerHTML = labels.map((label) => {
           return `<label class="pub-chip"><input type="checkbox" value="${label}"><span>${label}</span></label>`;
@@ -216,7 +209,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
 
         rows.forEach((row) => {
           const holder = row.querySelector(".pub-tags-line");
-          holder.innerHTML = tagsFor(row).map((tag) => `<button class="pub-tag-pill" type="button" data-tag="${tag}">${tag}</button>`).join("");
+          holder.innerHTML = topicsFor(row).map((topic) => `<button class="pub-tag-pill" type="button" data-topic="${topic}">${topic}</button>`).join("");
         });
 
         const inputs = () => Array.from(chips.querySelectorAll("input"));
@@ -229,8 +222,8 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             input.closest(".pub-chip").classList.toggle("is-active", input.checked);
           });
           rows.forEach((row) => {
-            const rowTags = tagsFor(row);
-            const show = active.length === 0 || active.some((tag) => rowTags.includes(tag));
+            const rowTopics = topicsFor(row);
+            const show = active.length === 0 || active.some((topic) => rowTopics.includes(topic));
             row.hidden = !show;
             if (show) visible += 1;
           });
@@ -249,7 +242,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
         table.addEventListener("click", (event) => {
           const pill = event.target.closest(".pub-tag-pill");
           if (!pill) return;
-          const input = inputs().find((candidate) => candidate.value === pill.dataset.tag);
+          const input = inputs().find((candidate) => candidate.value === pill.dataset.topic);
           if (!input) return;
           input.checked = true;
           applyFilters();

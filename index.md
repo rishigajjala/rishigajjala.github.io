@@ -25,6 +25,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
         <a class="button" href="https://scholar.google.com/citations?user=aXWXwMIAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>
         <a class="button" href="https://dblp.org/pid/266/6291.html" target="_blank" rel="noopener noreferrer">DBLP</a>
         <a class="button" href="https://www.linkedin.com/in/rishikesh-gajjala-3100a0328/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+        <a class="button" href="https://drive.google.com/file/d/1loqwu3cp6HiecWY3VIeq1_Val2oWPVy3/view" target="_blank" rel="noopener noreferrer">Resume</a>
         <a class="button" href="https://x.com/publishiperishi" target="_blank" rel="noopener noreferrer">X</a>
       </div>
     </div>
@@ -45,73 +46,218 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
       <p>Author names are alphabetical unless noted otherwise, following common practice in theory venues.</p>
     </div>
 
-    <div class="publication-list">
-      <article class="pub-item featured">
-        <h4>W-state graphs: Structure and Algorithms</h4>
-        <p>with <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and <a href="https://www.thilikos.info/" target="_blank" rel="noopener noreferrer">Dimitrios M. Thilikos</a></p>
-        <p><span class="venue">Preprint, 2026</span> <a href="https://arxiv.org/abs/2605.04855" target="_blank" rel="noopener noreferrer">arXiv:2605.04855</a></p>
-      </article>
-      <article class="pub-item featured">
-        <h4>Counterexamples to an Extremal Conjecture for Random Cycle-Factors</h4>
-        <p>single-authored</p>
-        <p><span class="venue">Preprint, 2026</span> <a href="https://arxiv.org/abs/2604.26101" target="_blank" rel="noopener noreferrer">arXiv:2604.26101</a></p>
-      </article>
-      <article class="pub-item featured">
-        <h4>On the smallest antichain that generates an ideal of a given size</h4>
-        <p>with <a href="https://dblp.org/pid/14/3919.html" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://www.cs.toronto.edu/~meel/" target="_blank" rel="noopener noreferrer">Kuldeep S. Meel</a></p>
-        <p><span class="venue">JCTA 2026</span> <a href="https://dblp.org/db/journals/jcta/jcta222.html#journals/jcta/ChandranGM26" target="_blank" rel="noopener noreferrer">Journal of Combinatorial Theory, Series A 222:106182</a></p>
-      </article>
-      <article class="pub-item">
-        <h4>CNFs and DNFs with exactly <em>n</em> solutions</h4>
-        <p>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://www.cs.toronto.edu/~meel/" target="_blank" rel="noopener noreferrer">Kuldeep Meel</a></p>
-        <p><span class="venue">SAT 2025</span> <a href="https://arxiv.org/abs/2506.07268" target="_blank" rel="noopener noreferrer">arXiv</a></p>
-      </article>
-      <article class="pub-item featured">
-        <h4>No distributed quantum advantage for approximate graph coloring</h4>
-        <p>with <a href="https://scholar.google.com/citations?user=FVy9CeAAAAAJ&amp;hl=fr" target="_blank" rel="noopener noreferrer">Xavier Coiteux-Roy</a>, <a href="https://fdamore95.github.io" target="_blank" rel="noopener noreferrer">Francesco d'Amore</a>, <a href="https://ac.informatik.uni-freiburg.de/kuhn/" target="_blank" rel="noopener noreferrer">Fabian Kuhn</a>, <a href="http://francoislegall.com" target="_blank" rel="noopener noreferrer">François Le Gall</a>, <a href="https://henriklievonen.fi" target="_blank" rel="noopener noreferrer">Henrik Lievonen</a>, <a href="https://augusto.modanese.net" target="_blank" rel="noopener noreferrer">Augusto Modanese</a>, <a href="https://marcolivierrenou.com" target="_blank" rel="noopener noreferrer">Marc-Olivier Renou</a>, <a href="https://ac.informatik.uni-freiburg.de/schmid/" target="_blank" rel="noopener noreferrer">Gustav Schmid</a> and <a href="https://jukkasuomela.fi" target="_blank" rel="noopener noreferrer">Jukka Suomela</a></p>
-        <p><span class="venue">STOC 2024</span> <a href="https://arxiv.org/abs/2307.09444" target="_blank" rel="noopener noreferrer">arXiv</a></p>
-      </article>
-      <article class="pub-item">
-        <h4>Graph-theoretic insights on the constructability of complex entangled states</h4>
-        <p>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></p>
-        <p><span class="venue">Quantum 2024</span> <a href="https://arxiv.org/abs/2304.06407" target="_blank" rel="noopener noreferrer">arXiv</a></p>
-      </article>
-      <article class="pub-item">
-        <h4>Graph reduction approach to Krenn-Gu conjecture</h4>
-        <p>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://scholar.google.com/citations?user=7OqTFMYAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Abraham M. Illickan</a></p>
-        <p><span class="venue">MFCS 2024</span> <a href="https://arxiv.org/abs/2407.00303" target="_blank" rel="noopener noreferrer">arXiv</a></p>
-      </article>
-      <article class="pub-item">
-        <h4>Two Results on LPT: A Near-Linear Time Algorithm and Parcel Delivery using Drones</h4>
-        <p>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a>, Shravan Mehra, <a href="https://scholar.google.co.in/citations?user=CuqCFEYAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Saladi Rahul</a></p>
-        <p><span class="venue">FSTTCS 2024</span> <a href="https://arxiv.org/abs/2407.16323" target="_blank" rel="noopener noreferrer">arXiv</a></p>
-      </article>
-      <article class="pub-item">
-        <h4>Improved upper bounds for the Heilbronn’s Problem for k-gons</h4>
-        <p>with Jayanth Ravi</p>
-        <p><span class="venue">CCCG 2024</span> <a href="https://arxiv.org/abs/2405.12945" target="_blank" rel="noopener noreferrer">arXiv</a></p>
-      </article>
-      <article class="pub-item">
-        <h4>Learning Sparse Fixed-Structure Gaussian Bayesian Networks</h4>
-        <p>with <a href="https://www.dcs.warwick.ac.uk/~u2470130/" target="_blank" rel="noopener noreferrer">Arnab Bhattacharyya</a>, <a href="https://cxjdavin.github.io" target="_blank" rel="noopener noreferrer">Davin Choo</a>, <a href="https://www.cse.iitk.ac.in/users/sutanu/" target="_blank" rel="noopener noreferrer">Sutanu Gayen</a> and <a href="https://yohannawang.com" target="_blank" rel="noopener noreferrer">Yuhao Wang</a></p>
-        <p><span class="venue">AISTATS 2022</span> <a href="https://arxiv.org/abs/2107.10450" target="_blank" rel="noopener noreferrer">arXiv</a></p>
-      </article>
-      <article class="pub-item">
-        <h4>Perfect Matchings and Quantum Physics: Progress on Krenn’s Conjecture</h4>
-        <p>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></p>
-        <p><span class="venue">Preprint, 2022</span> <a href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">arXiv</a> · In revision at <em>The Electronic Journal of Combinatorics</em> · <a href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></p>
-      </article>
-      <article class="pub-item">
-        <h4>Generalizations of Length Limited Huffman Coding for Hierarchical Memory Settings</h4>
-        <p>with <a href="https://www.linkedin.com/in/shashwat-banchhor-a0305012a" target="_blank" rel="noopener noreferrer">Shashwat Banchhor</a>, <a href="https://sites.google.com/view/yogishsabharwal/" target="_blank" rel="noopener noreferrer">Yogish Sabharwal</a> and <a href="https://www.cse.iitd.ac.in/~ssen/" target="_blank" rel="noopener noreferrer">Sandeep Sen</a></p>
-        <p><span class="venue">FSTTCS 2021</span> <a href="https://arxiv.org/abs/2010.05005" target="_blank" rel="noopener noreferrer">arXiv</a></p>
-      </article>
-      <article class="pub-item">
-        <h4>Huffman Coding Based Encoding Techniques for Fast Distributed Deep Learning</h4>
-        <p>with <a href="https://www.linkedin.com/in/shashwat-banchhor-a0305012a" target="_blank" rel="noopener noreferrer">Shashwat Banchhor</a>, <a href="http://eecs.qmul.ac.uk/~ahmed/" target="_blank" rel="noopener noreferrer">Ahmed Sayed</a>, <a href="https://sciences.ucf.edu/math/person/aritra-dutta/" target="_blank" rel="noopener noreferrer">Aritra Dutta</a>, <a href="https://mcanini.github.io" target="_blank" rel="noopener noreferrer">Marco Canini</a>, <a href="https://scholar.google.com/citations?user=-NdSrrYAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Panos Kalnis</a></p>
-        <p><span class="venue">DistributedML 2020</span> <a href="https://dl.acm.org/doi/10.1145/3426745.3431334" target="_blank" rel="noopener noreferrer">ACM DL</a></p>
-      </article>
+    <div class="pub-controls" aria-label="Publication filters">
+      <div class="pub-controls-head">
+        <span>Filter by venue or year</span>
+        <span id="pub-count">13 papers</span>
+      </div>
+      <div id="pub-filter-chips" class="pub-filter-chips"></div>
+      <div class="pub-actions">
+        <button id="pub-clear" type="button">Clear</button>
+        <button id="pub-select-all" type="button">Select all</button>
+      </div>
     </div>
+
+    <div class="pub-table-wrap">
+      <table id="pub-table" class="pub-table">
+        <thead>
+          <tr>
+            <th scope="col">Title</th>
+            <th scope="col">Authors</th>
+            <th scope="col">Venue</th>
+            <th scope="col">Year</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr data-tags="2026, Preprint">
+            <td>
+              <strong>W-state graphs: Structure and Algorithms</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and <a href="https://www.thilikos.info/" target="_blank" rel="noopener noreferrer">Dimitrios M. Thilikos</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2605.04855" target="_blank" rel="noopener noreferrer">Preprint</a></td>
+            <td>2026</td>
+          </tr>
+          <tr data-tags="2026, Preprint">
+            <td>
+              <strong>Counterexamples to an Extremal Conjecture for Random Cycle-Factors</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>single-authored</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2604.26101" target="_blank" rel="noopener noreferrer">Preprint</a></td>
+            <td>2026</td>
+          </tr>
+          <tr data-tags="2026, JCTA">
+            <td>
+              <strong>On the smallest antichain that generates an ideal of a given size</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://dblp.org/pid/14/3919.html" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://www.cs.toronto.edu/~meel/" target="_blank" rel="noopener noreferrer">Kuldeep S. Meel</a></td>
+            <td><a class="venue" href="https://dblp.org/db/journals/jcta/jcta222.html#journals/jcta/ChandranGM26" target="_blank" rel="noopener noreferrer">JCTA</a></td>
+            <td>2026</td>
+          </tr>
+          <tr data-tags="2025, SAT">
+            <td>
+              <strong>CNFs and DNFs with exactly <em>n</em> solutions</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://www.cs.toronto.edu/~meel/" target="_blank" rel="noopener noreferrer">Kuldeep Meel</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2506.07268" target="_blank" rel="noopener noreferrer">SAT</a></td>
+            <td>2025</td>
+          </tr>
+          <tr data-tags="2024, STOC">
+            <td>
+              <strong>No distributed quantum advantage for approximate graph coloring</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://scholar.google.com/citations?user=FVy9CeAAAAAJ&amp;hl=fr" target="_blank" rel="noopener noreferrer">Xavier Coiteux-Roy</a>, <a href="https://fdamore95.github.io" target="_blank" rel="noopener noreferrer">Francesco d'Amore</a>, <a href="https://ac.informatik.uni-freiburg.de/kuhn/" target="_blank" rel="noopener noreferrer">Fabian Kuhn</a>, <a href="http://francoislegall.com" target="_blank" rel="noopener noreferrer">François Le Gall</a>, <a href="https://henriklievonen.fi" target="_blank" rel="noopener noreferrer">Henrik Lievonen</a>, <a href="https://augusto.modanese.net" target="_blank" rel="noopener noreferrer">Augusto Modanese</a>, <a href="https://marcolivierrenou.com" target="_blank" rel="noopener noreferrer">Marc-Olivier Renou</a>, <a href="https://ac.informatik.uni-freiburg.de/schmid/" target="_blank" rel="noopener noreferrer">Gustav Schmid</a> and <a href="https://jukkasuomela.fi" target="_blank" rel="noopener noreferrer">Jukka Suomela</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2307.09444" target="_blank" rel="noopener noreferrer">STOC</a></td>
+            <td>2024</td>
+          </tr>
+          <tr data-tags="2024, Quantum">
+            <td>
+              <strong>Graph-theoretic insights on the constructability of complex entangled states</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2304.06407" target="_blank" rel="noopener noreferrer">Quantum</a></td>
+            <td>2024</td>
+          </tr>
+          <tr data-tags="2024, MFCS">
+            <td>
+              <strong>Graph reduction approach to Krenn-Gu conjecture</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://scholar.google.com/citations?user=7OqTFMYAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Abraham M. Illickan</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2407.00303" target="_blank" rel="noopener noreferrer">MFCS</a></td>
+            <td>2024</td>
+          </tr>
+          <tr data-tags="2024, FSTTCS">
+            <td>
+              <strong>Two Results on LPT: A Near-Linear Time Algorithm and Parcel Delivery using Drones</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a>, Shravan Mehra, <a href="https://scholar.google.co.in/citations?user=CuqCFEYAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Saladi Rahul</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2407.16323" target="_blank" rel="noopener noreferrer">FSTTCS</a></td>
+            <td>2024</td>
+          </tr>
+          <tr data-tags="2024, CCCG">
+            <td>
+              <strong>Improved upper bounds for the Heilbronn’s Problem for k-gons</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with Jayanth Ravi</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2405.12945" target="_blank" rel="noopener noreferrer">CCCG</a></td>
+            <td>2024</td>
+          </tr>
+          <tr data-tags="2022, AISTATS">
+            <td>
+              <strong>Learning Sparse Fixed-Structure Gaussian Bayesian Networks</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.dcs.warwick.ac.uk/~u2470130/" target="_blank" rel="noopener noreferrer">Arnab Bhattacharyya</a>, <a href="https://cxjdavin.github.io" target="_blank" rel="noopener noreferrer">Davin Choo</a>, <a href="https://www.cse.iitk.ac.in/users/sutanu/" target="_blank" rel="noopener noreferrer">Sutanu Gayen</a> and <a href="https://yohannawang.com" target="_blank" rel="noopener noreferrer">Yuhao Wang</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2107.10450" target="_blank" rel="noopener noreferrer">AISTATS</a></td>
+            <td>2022</td>
+          </tr>
+          <tr data-tags="2022, Preprint">
+            <td>
+              <strong>Perfect Matchings and Quantum Physics: Progress on Krenn’s Conjecture</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">Preprint</a></td>
+            <td>2022</td>
+          </tr>
+          <tr data-tags="2021, FSTTCS">
+            <td>
+              <strong>Generalizations of Length Limited Huffman Coding for Hierarchical Memory Settings</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.linkedin.com/in/shashwat-banchhor-a0305012a" target="_blank" rel="noopener noreferrer">Shashwat Banchhor</a>, <a href="https://sites.google.com/view/yogishsabharwal/" target="_blank" rel="noopener noreferrer">Yogish Sabharwal</a> and <a href="https://www.cse.iitd.ac.in/~ssen/" target="_blank" rel="noopener noreferrer">Sandeep Sen</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2010.05005" target="_blank" rel="noopener noreferrer">FSTTCS</a></td>
+            <td>2021</td>
+          </tr>
+          <tr data-tags="2020, DistributedML">
+            <td>
+              <strong>Huffman Coding Based Encoding Techniques for Fast Distributed Deep Learning</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.linkedin.com/in/shashwat-banchhor-a0305012a" target="_blank" rel="noopener noreferrer">Shashwat Banchhor</a>, <a href="http://eecs.qmul.ac.uk/~ahmed/" target="_blank" rel="noopener noreferrer">Ahmed Sayed</a>, <a href="https://sciences.ucf.edu/math/person/aritra-dutta/" target="_blank" rel="noopener noreferrer">Aritra Dutta</a>, <a href="https://mcanini.github.io" target="_blank" rel="noopener noreferrer">Marco Canini</a>, <a href="https://scholar.google.com/citations?user=-NdSrrYAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Panos Kalnis</a></td>
+            <td><a class="venue" href="https://dl.acm.org/doi/10.1145/3426745.3431334" target="_blank" rel="noopener noreferrer">DistributedML</a></td>
+            <td>2020</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <script>
+      (() => {
+        const table = document.getElementById("pub-table");
+        const chips = document.getElementById("pub-filter-chips");
+        const count = document.getElementById("pub-count");
+        const clear = document.getElementById("pub-clear");
+        const selectAll = document.getElementById("pub-select-all");
+        if (!table || !chips || !count || !clear || !selectAll) return;
+
+        const rows = Array.from(table.querySelectorAll("tbody tr"));
+        const tagsFor = (row) => row.dataset.tags.split(",").map((tag) => tag.trim()).filter(Boolean);
+        const labels = Array.from(new Set(rows.flatMap(tagsFor))).sort((a, b) => {
+          const yearA = /^\d{4}$/.test(a);
+          const yearB = /^\d{4}$/.test(b);
+          if (yearA && yearB) return Number(b) - Number(a);
+          if (yearA) return -1;
+          if (yearB) return 1;
+          return a.localeCompare(b);
+        });
+
+        chips.innerHTML = labels.map((label) => {
+          return `<label class="pub-chip"><input type="checkbox" value="${label}"><span>${label}</span></label>`;
+        }).join("");
+
+        rows.forEach((row) => {
+          const holder = row.querySelector(".pub-tags-line");
+          holder.innerHTML = tagsFor(row).map((tag) => `<button class="pub-tag-pill" type="button" data-tag="${tag}">${tag}</button>`).join("");
+        });
+
+        const inputs = () => Array.from(chips.querySelectorAll("input"));
+        const selected = () => inputs().filter((input) => input.checked).map((input) => input.value);
+
+        function applyFilters() {
+          const active = selected();
+          let visible = 0;
+          inputs().forEach((input) => {
+            input.closest(".pub-chip").classList.toggle("is-active", input.checked);
+          });
+          rows.forEach((row) => {
+            const rowTags = tagsFor(row);
+            const show = active.length === 0 || active.some((tag) => rowTags.includes(tag));
+            row.hidden = !show;
+            if (show) visible += 1;
+          });
+          count.textContent = active.length === 0 ? `${rows.length} papers` : `${visible} of ${rows.length} papers`;
+        }
+
+        chips.addEventListener("change", applyFilters);
+        clear.addEventListener("click", () => {
+          inputs().forEach((input) => { input.checked = false; });
+          applyFilters();
+        });
+        selectAll.addEventListener("click", () => {
+          inputs().forEach((input) => { input.checked = true; });
+          applyFilters();
+        });
+        table.addEventListener("click", (event) => {
+          const pill = event.target.closest(".pub-tag-pill");
+          if (!pill) return;
+          const input = inputs().find((candidate) => candidate.value === pill.dataset.tag);
+          if (!input) return;
+          input.checked = true;
+          applyFilters();
+        });
+
+        applyFilters();
+      })();
+    </script>
   </section>
 
   <section id="talks" class="section-block">

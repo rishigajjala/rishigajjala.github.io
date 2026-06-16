@@ -314,7 +314,11 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
       </article>
       <article>
         <h3>Teaching Assistant</h3>
-        <p>Quantum Computing at NYU Abu Dhabi. Graph Theory and Design &amp; Analysis of Algorithms at IISc Bengaluru, and Introduction to Parallel Programming at IIT Delhi.</p>
+        <ul class="plain-list">
+          <li>Quantum Computing at NYU Abu Dhabi</li>
+          <li>Graph Theory and Design &amp; Analysis of Algorithms at IISc Bengaluru</li>
+          <li>Introduction to Parallel Programming at IIT Delhi</li>
+        </ul>
       </article>
       <article>
         <h3>Mentoring</h3>

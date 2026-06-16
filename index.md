@@ -49,7 +49,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
     <div class="pub-controls" aria-label="Publication filters">
       <div class="pub-controls-head">
         <span>Filter by topic</span>
-        <span id="pub-count">13 papers</span>
+        <span id="pub-count">15 papers</span>
       </div>
       <div id="pub-filter-chips" class="pub-filter-chips"></div>
       <div class="pub-actions">
@@ -183,6 +183,24 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td>with <a href="https://www.linkedin.com/in/shashwat-banchhor-a0305012a" target="_blank" rel="noopener noreferrer">Shashwat Banchhor</a>, <a href="https://sites.google.com/view/yogishsabharwal/" target="_blank" rel="noopener noreferrer">Yogish Sabharwal</a> and <a href="https://www.cse.iitd.ac.in/~ssen/" target="_blank" rel="noopener noreferrer">Sandeep Sen</a></td>
             <td><a class="venue" href="https://arxiv.org/abs/2010.05005" target="_blank" rel="noopener noreferrer">FSTTCS</a></td>
             <td>2021</td>
+          </tr>
+          <tr data-topics="Approximation Algorithms, Data Compression">
+            <td>
+              <strong>Efficient algorithms for decode efficient prefix codes</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.linkedin.com/in/shashwat-banchhor-a0305012a" target="_blank" rel="noopener noreferrer">Shashwat Banchhor</a>, <a href="https://sites.google.com/view/yogishsabharwal/" target="_blank" rel="noopener noreferrer">Yogish Sabharwal</a> and <a href="https://www.cse.iitd.ac.in/~ssen/" target="_blank" rel="noopener noreferrer">Sandeep Sen</a></td>
+            <td><a class="venue" href="https://dblp.org/db/conf/dcc/dcc2021.html#conf/dcc/BanchhorGSS21" target="_blank" rel="noopener noreferrer">DCC</a></td>
+            <td>2021</td>
+          </tr>
+          <tr data-topics="Data Compression">
+            <td>
+              <strong>Decode-Efficient Prefix Codes for Hierarchical Memory Models</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.linkedin.com/in/shashwat-banchhor-a0305012a" target="_blank" rel="noopener noreferrer">Shashwat Banchhor</a>, <a href="https://sites.google.com/view/yogishsabharwal/" target="_blank" rel="noopener noreferrer">Yogish Sabharwal</a> and <a href="https://www.cse.iitd.ac.in/~ssen/" target="_blank" rel="noopener noreferrer">Sandeep Sen</a></td>
+            <td><a class="venue" href="https://dblp.org/db/conf/dcc/dcc2020.html#conf/dcc/BanchhorGSS20" target="_blank" rel="noopener noreferrer">DCC</a></td>
+            <td>2020</td>
           </tr>
           <tr data-topics="Data Compression, Deep Learning">
             <td>

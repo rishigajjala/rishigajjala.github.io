@@ -167,7 +167,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
           </tr>
           <tr data-topics="Graph Theory, Quantum Computing">
             <td>
-              <strong>Perfect Matchings and Quantum Physics: Progress on Krenn’s Conjecture</strong>
+              <strong>Edge-coloured graphs with only monochromatic perfect matchings and their connection to quantum physics</strong>
               <div class="pub-tags-line"></div>
               <div class="pub-note"><a href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></div>
             </td>

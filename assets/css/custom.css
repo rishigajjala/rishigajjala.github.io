@@ -70,7 +70,7 @@ footer .d-md-none {
 }
 
 .hero h1 {
-  margin: 0;
+  margin: 0 0 1rem;
   color: var(--rg-text);
   font-size: clamp(2.6rem, 7vw, 5.25rem);
   line-height: 0.95;

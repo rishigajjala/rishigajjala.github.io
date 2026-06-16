@@ -48,7 +48,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
     <div class="publication-list">
       <article class="pub-item featured">
         <h4>W-state graphs: Structure and Algorithms</h4>
-        <p>with <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Ray%2C+S" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Thilikos%2C+D+M" target="_blank" rel="noopener noreferrer">Dimitrios M. Thilikos</a></p>
+        <p>with <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and <a href="https://www.thilikos.info/" target="_blank" rel="noopener noreferrer">Dimitrios M. Thilikos</a></p>
         <p><span class="venue">Preprint, 2026</span> <a href="https://arxiv.org/abs/2605.04855" target="_blank" rel="noopener noreferrer">arXiv:2605.04855</a></p>
       </article>
       <article class="pub-item featured">
@@ -58,7 +58,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
       </article>
       <article class="pub-item featured">
         <h4>On the smallest antichain that generates an ideal of a given size</h4>
-        <p>with <a href="https://dblp.org/pid/14/3919.html" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://dblp.org/pid/129/1623.html" target="_blank" rel="noopener noreferrer">Kuldeep S. Meel</a></p>
+        <p>with <a href="https://dblp.org/pid/14/3919.html" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://www.cs.toronto.edu/~meel/" target="_blank" rel="noopener noreferrer">Kuldeep S. Meel</a></p>
         <p><span class="venue">JCTA 2026</span> <a href="https://dblp.org/db/journals/jcta/jcta222.html#journals/jcta/ChandranGM26" target="_blank" rel="noopener noreferrer">Journal of Combinatorial Theory, Series A 222:106182</a></p>
       </article>
       <article class="pub-item">

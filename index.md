@@ -290,7 +290,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
       </article>
       <article>
         <h3>A combinatorial problem from weighted model counting</h3>
-        <p><a href="https://research.cs.aalto.fi/theory/seminar/seminar.html" target="_blank" rel="noopener noreferrer">Helsinki CS Theory Seminar</a> · <a href="http://dmatheorynet.blogspot.com/2022/04/dmanet-algorithmic-graph-theory-seminar.html" target="_blank" rel="noopener noreferrer">Algorithmic Graph Theory seminar series</a></p>
+        <p><a href="https://research.cs.aalto.fi/theory/seminar/seminar.html" target="_blank" rel="noopener noreferrer">Helsinki CS Theory Seminar</a><br><a href="http://dmatheorynet.blogspot.com/2022/04/dmanet-algorithmic-graph-theory-seminar.html" target="_blank" rel="noopener noreferrer">Algorithmic Graph Theory seminar series</a></p>
       </article>
       <article>
         <h3>No distributed quantum advantage for approximate graph coloring</h3>
@@ -298,7 +298,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
       </article>
       <article>
         <h3>Designing quantum experiments via Graph Theory</h3>
-        <p><a href="https://www.pmrf.in/symposium-2023" target="_blank" rel="noopener noreferrer">PMRF Research Symposium</a> · Winner of Best Poster Award · <a href="https://youtu.be/Sc9f_n62B10?si=Be0PftzhzIJD_HbI" target="_blank" rel="noopener noreferrer">IISc–MSR Theory Seminar</a> · <a href="https://ncatlab.org/nlab/show/Center+for+Quantum+and+Topological+Systems#CQTSColloquium" target="_blank" rel="noopener noreferrer">Quantum Colloquium @ NYU Abu Dhabi</a></p>
+        <p><a href="https://www.pmrf.in/symposium-2023" target="_blank" rel="noopener noreferrer">PMRF Research Symposium</a> · Winner of Best Poster Award<br><a href="https://youtu.be/Sc9f_n62B10?si=Be0PftzhzIJD_HbI" target="_blank" rel="noopener noreferrer">IISc–MSR Theory Seminar</a> · <a href="https://ncatlab.org/nlab/show/Center+for+Quantum+and+Topological+Systems#CQTSColloquium" target="_blank" rel="noopener noreferrer">Quantum Colloquium @ NYU Abu Dhabi</a></p>
       </article>
     </div>
   </section>

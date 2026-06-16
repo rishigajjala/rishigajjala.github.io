@@ -7,7 +7,6 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
 <div class="profile-page">
   <section class="hero">
     <div class="hero-copy">
-      <p class="eyebrow">Postdoctoral Researcher · CQTS, NYU Abu Dhabi</p>
       <h1>Rishikesh Gajjala</h1>
       <p class="hero-subtitle">
         I broadly work in theoretical computer science. These days, I am working on AI for Math.
@@ -41,7 +40,6 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
 
   <section id="publications" class="section-block">
     <div class="section-heading">
-      <p class="eyebrow">Selected work</p>
       <h2>Publications</h2>
       <p>Author names are alphabetical unless noted otherwise, following common practice in theory venues.</p>
     </div>

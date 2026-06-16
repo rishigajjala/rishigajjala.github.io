@@ -111,7 +111,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2506.07268" target="_blank" rel="noopener noreferrer">SAT</a></td>
             <td>2025</td>
           </tr>
-          <tr data-topics="Quantum Computing, Distributed Computing">
+          <tr data-topics="Graph Theory, Quantum Computing, Distributed Computing">
             <td>
               <strong>No distributed quantum advantage for approximate graph coloring</strong>
               <div class="pub-tags-line"></div>
@@ -138,7 +138,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2407.00303" target="_blank" rel="noopener noreferrer">MFCS</a></td>
             <td>2024</td>
           </tr>
-          <tr data-topics="Approximation Algorithms, Scheduling">
+          <tr data-topics="Approximation Algorithms">
             <td>
               <strong>Two Results on LPT: A Near-Linear Time Algorithm and Parcel Delivery using Drones</strong>
               <div class="pub-tags-line"></div>
@@ -175,7 +175,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">Preprint</a></td>
             <td>2022</td>
           </tr>
-          <tr data-topics="Approximation Algorithms, Coding">
+          <tr data-topics="Approximation Algorithms, Data Compression">
             <td>
               <strong>Generalizations of Length Limited Huffman Coding for Hierarchical Memory Settings</strong>
               <div class="pub-tags-line"></div>
@@ -184,7 +184,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2010.05005" target="_blank" rel="noopener noreferrer">FSTTCS</a></td>
             <td>2021</td>
           </tr>
-          <tr data-topics="Coding, Deep Learning">
+          <tr data-topics="Data Compression, Deep Learning">
             <td>
               <strong>Huffman Coding Based Encoding Techniques for Fast Distributed Deep Learning</strong>
               <div class="pub-tags-line"></div>

@@ -79,10 +79,10 @@ footer .d-md-none {
 
 .hero-subtitle {
   max-width: 760px;
-  margin: 1.25rem 0;
-  color: #314054;
-  font-size: clamp(1.18rem, 2.4vw, 1.55rem);
-  line-height: 1.45;
+  margin: 1rem 0;
+  color: var(--rg-text);
+  font-size: 1rem;
+  line-height: inherit;
 }
 
 .hero-actions {
@@ -172,14 +172,6 @@ footer .d-md-none {
   box-shadow: 0 2px 8px rgba(37, 50, 77, 0.06);
 }
 
-.snapshot {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1rem;
-  margin-bottom: 3.4rem;
-}
-
-.snapshot article,
 .pub-item,
 .simple-list article {
   border: 1px solid var(--rg-line);
@@ -188,11 +180,6 @@ footer .d-md-none {
   box-shadow: 0 6px 22px rgba(37, 50, 77, 0.06);
 }
 
-.snapshot article {
-  padding: 1.1rem;
-}
-
-.metric,
 .venue {
   display: inline-flex;
   align-items: center;
@@ -207,14 +194,6 @@ footer .d-md-none {
   text-transform: uppercase;
 }
 
-.snapshot strong {
-  display: block;
-  margin: 0.65rem 0 0.35rem;
-  color: var(--rg-text);
-  font-size: 1.05rem;
-}
-
-.snapshot p,
 .section-heading p,
 .pub-item p,
 .simple-list p {
@@ -292,7 +271,14 @@ footer .d-md-none {
   box-shadow: 0 10px 28px rgba(29, 95, 208, 0.1);
 }
 
-.pub-item h4,
+.pub-item h4 {
+  margin: 0 0 0.45rem;
+  color: var(--rg-text);
+  font-size: 1.28rem;
+  font-weight: 850;
+  line-height: 1.25;
+}
+
 .simple-list h3 {
   margin: 0 0 0.45rem;
   color: var(--rg-text);
@@ -301,9 +287,13 @@ footer .d-md-none {
 }
 
 .pub-item p,
-.simple-list p,
-.snapshot p {
+.simple-list p {
   margin: 0.35rem 0 0;
+}
+
+.pub-item p {
+  font-size: 0.96rem;
+  line-height: 1.55;
 }
 
 .venue {
@@ -338,7 +328,6 @@ footer .d-md-none {
     justify-self: start;
   }
 
-  .snapshot,
   .simple-list.compact {
     grid-template-columns: 1fr;
   }

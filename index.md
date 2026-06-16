@@ -40,24 +40,6 @@ description: Postdoc at CQTS, working on quantum computing, graph theory, and di
     <a href="#service">Service</a>
   </nav>
 
-  <section class="snapshot" aria-label="Research snapshot">
-    <article>
-      <span class="metric">Current</span>
-      <strong>Postdoc at CQTS</strong>
-      <p>NYU Abu Dhabi, Center for Quantum and Topological Systems.</p>
-    </article>
-    <article>
-      <span class="metric">Research</span>
-      <strong>Quantum + discrete math</strong>
-      <p>Graph-theoretic questions around quantum information and algorithms.</p>
-    </article>
-    <article>
-      <span class="metric">Background</span>
-      <strong>IISc + IIT Delhi</strong>
-      <p>PhD in Theoretical CS at IISc and B.Tech in CS at IIT Delhi.</p>
-    </article>
-  </section>
-
   <section id="publications" class="section-block">
     <div class="section-heading">
       <p class="eyebrow">Selected work</p>

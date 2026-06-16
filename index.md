@@ -175,7 +175,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">Preprint</a></td>
             <td>2022</td>
           </tr>
-          <tr data-topics="Algorithms, Coding">
+          <tr data-topics="Approximation Algorithms, Coding">
             <td>
               <strong>Generalizations of Length Limited Huffman Coding for Hierarchical Memory Settings</strong>
               <div class="pub-tags-line"></div>

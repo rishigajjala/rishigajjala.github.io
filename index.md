@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rishikesh Gajjala
-description: Postdoc at CQTS, working on quantum computing, graph theory, and discrete algorithms.
+description: Postdoc at CQTS, working broadly in theoretical computer science and AI for Math.
 ---
 
 <div class="profile-page">
@@ -10,8 +10,7 @@ description: Postdoc at CQTS, working on quantum computing, graph theory, and di
       <p class="eyebrow">Postdoctoral Researcher · CQTS, NYU Abu Dhabi</p>
       <h1>Rishikesh Gajjala</h1>
       <p class="hero-subtitle">
-        I work at the intersection of quantum computing, graph theory, combinatorics,
-        and discrete algorithms.
+        I broadly work in theoretical computer science. These days, I am working on AI for Math.
       </p>
       <p>
         I am a Post-Doctoral Researcher at the Center for Quantum and Topological

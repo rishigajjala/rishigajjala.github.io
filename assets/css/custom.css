@@ -77,14 +77,6 @@ footer .d-md-none {
   letter-spacing: 0;
 }
 
-.hero-subtitle {
-  max-width: 760px;
-  margin: 1rem 0;
-  color: var(--rg-text);
-  font-size: 1rem;
-  line-height: inherit;
-}
-
 .hero-actions {
   display: flex;
   flex-wrap: wrap;

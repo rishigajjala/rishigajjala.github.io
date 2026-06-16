@@ -1,16 +1,13 @@
 ---
 layout: default
 title: Rishikesh Gajjala
-description: Postdoc at CQTS, working broadly in theoretical computer science and AI for Math.
+description: Postdoc at CQTS, working broadly in theoretical computer science and exploring AI tools for Math.
 ---
 
 <div class="profile-page">
   <section class="hero">
     <div class="hero-copy">
       <h1>Rishikesh Gajjala</h1>
-      <p class="hero-subtitle">
-        I broadly work in theoretical computer science. These days, I am working on AI for Math.
-      </p>
       <p>
         I am a Post-Doctoral Researcher at the Center for Quantum and Topological
         Systems (<a href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts.html">CQTS</a>)
@@ -18,6 +15,10 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
         Theoretical Computer Science at the Indian Institute of Science (IISc) and
         my Bachelor’s degree in Computer Science at the Indian Institute of Technology,
         Delhi (IITD).
+      </p>
+      <p>
+        I broadly work in theoretical computer science. These days, I am playing
+        around with the use of various AI tools for Math.
       </p>
       <div class="hero-actions" aria-label="Profile links">
         <a class="button primary" href="mailto:r.gajjala@nyu.edu">Email</a>

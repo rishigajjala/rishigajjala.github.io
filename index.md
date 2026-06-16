@@ -93,7 +93,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2604.26101" target="_blank" rel="noopener noreferrer">Preprint</a></td>
             <td>2026</td>
           </tr>
-          <tr data-topics="Combinatorics, Model Counting">
+          <tr data-topics="Combinatorics, SAT Solvers">
             <td>
               <strong>On the smallest antichain that generates an ideal of a given size</strong>
               <div class="pub-tags-line"></div>
@@ -102,7 +102,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://dblp.org/db/journals/jcta/jcta222.html#journals/jcta/ChandranGM26" target="_blank" rel="noopener noreferrer">JCTA</a></td>
             <td>2026</td>
           </tr>
-          <tr data-topics="Combinatorics, Model Counting">
+          <tr data-topics="Combinatorics, SAT Solvers">
             <td>
               <strong>CNFs and DNFs with exactly <em>n</em> solutions</strong>
               <div class="pub-tags-line"></div>

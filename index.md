@@ -147,7 +147,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2407.16323" target="_blank" rel="noopener noreferrer">FSTTCS</a></td>
             <td>2024</td>
           </tr>
-          <tr data-topics="Combinatorics, Discrete Geometry">
+          <tr data-topics="Combinatorics, Computational Geometry">
             <td>
               <strong>Improved upper bounds for the Heilbronn’s Problem for k-gons</strong>
               <div class="pub-tags-line"></div>

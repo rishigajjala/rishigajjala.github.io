@@ -315,6 +315,15 @@ footer .d-md-none {
   grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
+.plain-list {
+  display: grid;
+  gap: 0.35rem;
+  margin: 0.35rem 0 0;
+  padding: 0;
+  color: var(--rg-muted);
+  list-style: none;
+}
+
 @media (max-width: 900px) {
   .main-content {
     padding-top: 1.25rem;

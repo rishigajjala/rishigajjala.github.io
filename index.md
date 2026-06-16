@@ -154,7 +154,11 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
       </article>
       <article>
         <h3>Mentoring</h3>
-        <p>Abraham M. Illickan (MFCS 2024, IIT Palakkad → UC Irvine), Jayanth Ravi (CCCG 2024, IIT Delhi), and Shravan Mehra (FSTTCS 2024, IISc Bangalore → Univ. of Birmingham).</p>
+        <ul class="plain-list">
+          <li>Abraham M. Illickan (MFCS 2024, IIT Palakkad → UC Irvine)</li>
+          <li>Jayanth Ravi (CCCG 2024, IIT Delhi)</li>
+          <li>Shravan Mehra (FSTTCS 2024, IISc Bangalore → Univ. of Birmingham)</li>
+        </ul>
       </article>
     </div>
   </section>

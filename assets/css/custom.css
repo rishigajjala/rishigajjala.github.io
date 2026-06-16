@@ -268,8 +268,23 @@ footer .d-md-none {
   padding: 1rem 1.1rem;
 }
 
+.publication-list {
+  display: grid;
+  gap: 0.78rem;
+  border-top: 1px solid var(--rg-line);
+  padding-top: 1.2rem;
+}
+
+.publication-list .pub-item {
+  grid-column: auto;
+}
+
 .pub-item + .pub-item {
   margin-top: 0.75rem;
+}
+
+.publication-list .pub-item + .pub-item {
+  margin-top: 0;
 }
 
 .pub-item.featured {

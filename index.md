@@ -60,16 +60,16 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
 
     <div class="pub-legend" aria-label="Venue legend">
       <strong>Legend (venues in alphabetical ordering):</strong>
-      AISTATS: International Conference on Artificial Intelligence and Statistics;
-      CCCG: Canadian Conference on Computational Geometry;
-      DCC: Data Compression Conference;
-      DistributedML: Workshop on Distributed Machine Learning;
-      FSTTCS: IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science;
-      JCTA: Journal of Combinatorial Theory, Series A;
-      MFCS: International Symposium on Mathematical Foundations of Computer Science;
-      Quantum: Quantum journal;
-      SAT: International Conference on Theory and Applications of Satisfiability Testing;
-      STOC: ACM Symposium on Theory of Computing.
+      <span class="pub-legend-key">AISTATS:</span> International Conference on Artificial Intelligence and Statistics;
+      <span class="pub-legend-key">CCCG:</span> Canadian Conference on Computational Geometry;
+      <span class="pub-legend-key">DCC:</span> Data Compression Conference;
+      <span class="pub-legend-key">DistributedML:</span> Workshop on Distributed Machine Learning;
+      <span class="pub-legend-key">FSTTCS:</span> IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science;
+      <span class="pub-legend-key">JCTA:</span> Journal of Combinatorial Theory, Series A;
+      <span class="pub-legend-key">MFCS:</span> International Symposium on Mathematical Foundations of Computer Science;
+      <span class="pub-legend-key">Quantum:</span> Quantum journal;
+      <span class="pub-legend-key">SAT:</span> International Conference on Theory and Applications of Satisfiability Testing;
+      <span class="pub-legend-key">STOC:</span> ACM Symposium on Theory of Computing.
     </div>
 
     <div class="pub-table-wrap">

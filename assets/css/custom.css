@@ -371,6 +371,11 @@ footer .d-md-none {
   color: var(--rg-text);
 }
 
+.pub-legend-key {
+  color: var(--rg-blue);
+  font-weight: 850;
+}
+
 .pub-table tbody tr[hidden] {
   display: none;
 }

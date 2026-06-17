@@ -49,7 +49,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
     <div class="pub-controls" aria-label="Publication filters">
       <div class="pub-controls-head">
         <span>Filter by topic</span>
-        <span id="pub-count">15 papers</span>
+        <span id="pub-count">16 papers</span>
       </div>
       <div id="pub-filter-chips" class="pub-filter-chips"></div>
       <div class="pub-actions">
@@ -75,6 +75,15 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
           </tr>
         </thead>
         <tbody>
+          <tr data-topics="Combinatorics, Computational Geometry">
+            <td>
+              <strong>A Counterexample to Wegner's Conjecture for Axis-Parallel Rectangles</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2606.17854" target="_blank" rel="noopener noreferrer">Preprint</a></td>
+            <td>2026</td>
+          </tr>
           <tr data-topics="Graph Theory, Quantum Computing">
             <td>
               <strong>W-state graphs: Structure and Algorithms</strong>

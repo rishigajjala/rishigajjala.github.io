@@ -359,7 +359,7 @@ footer .d-md-none {
 }
 
 .pub-legend {
-  margin-top: 0.85rem;
+  margin: 0.85rem 0 1rem;
   border-left: 3px solid rgba(29, 95, 208, 0.35);
   color: var(--rg-muted);
   padding: 0.15rem 0 0.15rem 0.75rem;

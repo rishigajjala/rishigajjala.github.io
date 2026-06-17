@@ -17,7 +17,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
         Delhi (IITD).
       </p>
       <p>
-        I broadly work in theoretical computer science. These days, I am playing
+        I broadly work in theoretical computer science. These days, I am mostly playing
         around with the use of various AI tools for Math.
       </p>
       <div class="hero-actions" aria-label="Profile links">

@@ -384,6 +384,17 @@ footer .d-md-none {
   line-height: 1.4;
 }
 
+.pub-note-red {
+  color: #b42318 !important;
+  text-decoration-color: rgba(180, 35, 24, 0.45);
+}
+
+.pub-note-red:hover,
+.pub-note-red:focus-visible {
+  color: #8f1d13 !important;
+  text-decoration-color: currentColor;
+}
+
 .pub-tag-pill {
   border: 1px solid rgba(8, 127, 140, 0.2);
   border-radius: 999px;

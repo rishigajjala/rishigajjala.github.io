@@ -64,7 +64,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
       <span class="pub-legend-key">CCCG:</span> Canadian Conference on Computational Geometry;
       <span class="pub-legend-key">DCC:</span> Data Compression Conference;
       <span class="pub-legend-key">DistributedML:</span> Workshop on Distributed Machine Learning;
-      <span class="pub-legend-key">Elec. J. Comb.:</span> The Electronic Journal of Combinatorics;
+      <span class="pub-legend-key">E-JC:</span> The Electronic Journal of Combinatorics;
       <span class="pub-legend-key">FSTTCS:</span> IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science;
       <span class="pub-legend-key">JCTA:</span> Journal of Combinatorial Theory, Series A;
       <span class="pub-legend-key">MFCS:</span> International Symposium on Mathematical Foundations of Computer Science;
@@ -132,7 +132,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">Elec. J. Comb.</a><a class="pub-note" href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">E-JC</a><a class="pub-note" href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Combinatorics, SAT Solvers">

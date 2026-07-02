@@ -3,10 +3,10 @@ title: "Home"
 ---
 
 <div style="text-align: center; margin-bottom: 1em;">
-  <img
-    src="{{ '/images/headshot.jpg' | relative_url }}"
-    alt="Rishikesh Gajjala"
-    style="border-radius:50%; width:150px; height:150px;"
+  <img 
+    src="{{ '/assets/images/headshot.jpg' | relative_url }}" 
+    alt="Rishikesh Gajjala" 
+    style="border-radius:50%; width:150px; height:150px;" 
   />
 </div>
 
@@ -61,10 +61,9 @@ Remark: Author names are in alphabetical ordering (unless they are not). For the
    with [L. Sunil Chandran](https://www.csa.iisc.ac.in/~sunil/) and [Abraham M. Illickan](https://scholar.google.com/citations?user=7OqTFMYAAAAJ&hl=en)  
    *International Symposium on Mathematical Foundations of Computer Science* [(MFCS 2024)](https://arxiv.org/abs/2407.00303)
 
-- **Perfect Matchings and Quantum Physics: Progress on Krenn’s Conjecture**  
-  with [L. Sunil Chandran](https://www.csa.iisc.ac.in/~sunil/) 
-  *(Preprint)* [(arXiv:2202.05562)](https://arxiv.org/abs/2202.05562)
-  In revision at *The Electronic Journal of Combinatorics*  
+- **Edge-coloured graphs with only monochromatic perfect matchings and their connection to quantum physics**  
+  with [L. Sunil Chandran](https://www.csa.iisc.ac.in/~sunil/)  
+  *The Electronic Journal of Combinatorics* [(arXiv:2202.05562)](https://arxiv.org/abs/2202.05562)  
   📜 [Quantum-Graph Best-Paper Award](https://mariokrenn.wordpress.com/graph-theory-question/)
 
 ---

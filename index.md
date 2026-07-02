@@ -64,6 +64,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
       <span class="pub-legend-key">CCCG:</span> Canadian Conference on Computational Geometry;
       <span class="pub-legend-key">DCC:</span> Data Compression Conference;
       <span class="pub-legend-key">DistributedML:</span> Workshop on Distributed Machine Learning;
+      <span class="pub-legend-key">EJC:</span> The Electronic Journal of Combinatorics;
       <span class="pub-legend-key">FSTTCS:</span> IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science;
       <span class="pub-legend-key">JCTA:</span> Journal of Combinatorial Theory, Series A;
       <span class="pub-legend-key">MFCS:</span> International Symposium on Mathematical Foundations of Computer Science;
@@ -123,6 +124,15 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             </td>
             <td>with <a href="https://dblp.org/pid/14/3919.html" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://www.cs.toronto.edu/~meel/" target="_blank" rel="noopener noreferrer">Kuldeep S. Meel</a></td>
             <td><a class="venue" href="https://dblp.org/db/journals/jcta/jcta222.html#journals/jcta/ChandranGM26" target="_blank" rel="noopener noreferrer">JCTA</a></td>
+            <td>2026</td>
+          </tr>
+          <tr data-topics="Graph Theory, Quantum Computing">
+            <td>
+              <strong>Edge-coloured graphs with only monochromatic perfect matchings and their connection to quantum physics</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">EJC</a><a class="pub-note" href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Combinatorics, SAT Solvers">
@@ -186,15 +196,6 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             </td>
             <td>with <a href="https://www.dcs.warwick.ac.uk/~u2470130/" target="_blank" rel="noopener noreferrer">Arnab Bhattacharyya</a>, <a href="https://cxjdavin.github.io" target="_blank" rel="noopener noreferrer">Davin Choo</a>, <a href="https://www.cse.iitk.ac.in/users/sutanu/" target="_blank" rel="noopener noreferrer">Sutanu Gayen</a> and <a href="https://yohannawang.com" target="_blank" rel="noopener noreferrer">Yuhao Wang</a></td>
             <td><a class="venue" href="https://arxiv.org/abs/2107.10450" target="_blank" rel="noopener noreferrer">AISTATS</a></td>
-            <td>2022</td>
-          </tr>
-          <tr data-topics="Graph Theory, Quantum Computing">
-            <td>
-              <strong>Edge-coloured graphs with only monochromatic perfect matchings and their connection to quantum physics</strong>
-              <div class="pub-tags-line"></div>
-            </td>
-            <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">The Electronic Journal of Combinatorics</a><a class="pub-note" href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></td>
             <td>2022</td>
           </tr>
           <tr data-topics="Approximation Algorithms, Data Compression">

@@ -95,8 +95,8 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
               <strong>On Erdős's Multiplicative Representation Problem</strong>
               <div class="pub-tags-line"></div>
             </td>
-            <td>Found and formalised using GPT-5.6</td>
-            <td><a class="venue" href="https://github.com/rishigajjala/erdos-796-lean" target="_blank" rel="noopener noreferrer">GitHub</a></td>
+            <td>Proof and Lean Formalization by GPT-5.6 Sol</td>
+            <td><a class="venue" href="https://github.com/rishigajjala/erdos-796-lean" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://github.com/rishigajjala/erdos-796-lean" target="_blank" rel="noopener noreferrer">Erdos 796</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Combinatorics, Computational Geometry">

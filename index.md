@@ -49,7 +49,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
     <div class="pub-controls" aria-label="Publication filters">
       <div class="pub-controls-head">
         <span>Filter by topic</span>
-        <span id="pub-count">16 papers</span>
+        <span id="pub-count">17 papers</span>
       </div>
       <div id="pub-filter-chips" class="pub-filter-chips"></div>
       <div class="pub-actions">
@@ -90,6 +90,15 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
           </tr>
         </thead>
         <tbody>
+          <tr data-topics="Formalized Mathematics, Lean, Number Theory">
+            <td>
+              <strong>On Erdős's Multiplicative Representation Problem</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>Found and formalised using GPT-5.6</td>
+            <td><a class="venue" href="https://github.com/rishigajjala/erdos-796-lean" target="_blank" rel="noopener noreferrer">GitHub</a></td>
+            <td>2026</td>
+          </tr>
           <tr data-topics="Combinatorics, Computational Geometry">
             <td>
               <strong>Counterexamples to Wegner's Conjecture for Rectangles</strong>

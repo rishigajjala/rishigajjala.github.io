@@ -90,7 +90,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
           </tr>
         </thead>
         <tbody>
-          <tr data-topics="Formalized Mathematics, Lean, Number Theory">
+          <tr data-topics="Formalized Mathematics, Number Theory">
             <td>
               <strong>On Erdős's Multiplicative Representation Problem</strong>
               <div class="pub-tags-line"></div>

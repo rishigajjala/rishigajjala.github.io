@@ -49,7 +49,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
     <div class="pub-controls" aria-label="Publication filters">
       <div class="pub-controls-head">
         <span>Filter by topic</span>
-        <span id="pub-count">18 papers</span>
+        <span id="pub-count">19 papers</span>
       </div>
       <div id="pub-filter-chips" class="pub-filter-chips"></div>
       <div class="pub-actions">
@@ -99,6 +99,15 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://github.com/rishigajjala/erdos-796-lean" target="_blank" rel="noopener noreferrer">Preprint and Lean Formalization</a><a class="pub-note pub-note-red" href="https://www.erdosproblems.com/796" target="_blank" rel="noopener noreferrer">Erdos 796</a></td>
             <td>2026</td>
           </tr>
+          <tr data-topics="Computational Geometry, Approximation Algorithms">
+            <td>
+              <strong>Tight UGC Thresholds for Geometric Stabbing Problems</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.ku.ac.ae/college-people/khaled-elbassioni" target="_blank" rel="noopener noreferrer">Khaled Elbassioni</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2607.28062" target="_blank" rel="noopener noreferrer">Preprint</a></td>
+            <td>2026</td>
+          </tr>
           <tr data-topics="Quantum Computing">
             <td>
               <strong>Two-copy nondistillability of Werner states: sharp partial-trace inequalities and finite-copy extensions</strong>
@@ -110,7 +119,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
           </tr>
           <tr data-topics="Combinatorics, Computational Geometry">
             <td>
-              <strong>A Counterexample to Wegner's Conjecture for Axis-Parallel Rectangles</strong>
+              <strong>Counterexamples to Wegner's Conjecture for Rectangles</strong>
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>

@@ -49,7 +49,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
     <div class="pub-controls" aria-label="Publication filters">
       <div class="pub-controls-head">
         <span>Filter by topic</span>
-        <span id="pub-count">17 papers</span>
+        <span id="pub-count">18 papers</span>
       </div>
       <div id="pub-filter-chips" class="pub-filter-chips"></div>
       <div class="pub-actions">
@@ -97,6 +97,15 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             </td>
             <td>Proof and Lean Formalization by GPT-5.6 Sol</td>
             <td><a class="venue" href="https://github.com/rishigajjala/erdos-796-lean" target="_blank" rel="noopener noreferrer">Preprint and Lean Formalization</a><a class="pub-note pub-note-red" href="https://www.erdosproblems.com/796" target="_blank" rel="noopener noreferrer">Erdos 796</a></td>
+            <td>2026</td>
+          </tr>
+          <tr data-topics="Quantum Computing">
+            <td>
+              <strong>Two-copy nondistillability of Werner states: sharp partial-trace inequalities and finite-copy extensions</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://quics.umd.edu/people/kishor-bharti" target="_blank" rel="noopener noreferrer">Kishor Bharti</a> and <a href="https://www.tii.ae/team/tobias-haug" target="_blank" rel="noopener noreferrer">Tobias Haug</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2607.24479" target="_blank" rel="noopener noreferrer">Preprint</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Combinatorics, Computational Geometry">

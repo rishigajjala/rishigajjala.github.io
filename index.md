@@ -17,8 +17,8 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
         Delhi (IITD).
       </p>
       <p>
-        I broadly work in theoretical computer science. These days, I am mostly playing
-        around with the use of various AI tools for Math.
+        I broadly work in theoretical computer science. These days, I am mostly pushing
+        LLMs to their limits on math.
       </p>
       <div class="hero-actions" aria-label="Profile links">
         <a class="button primary" href="mailto:r.gajjala@nyu.edu">Email</a>

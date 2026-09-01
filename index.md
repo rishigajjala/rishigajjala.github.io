@@ -49,7 +49,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
     <div class="pub-controls" aria-label="Publication filters">
       <div class="pub-controls-head">
         <span>Filter by topic</span>
-        <span id="pub-count">19 papers</span>
+        <span id="pub-count">21 papers</span>
       </div>
       <div id="pub-filter-chips" class="pub-filter-chips"></div>
       <div class="pub-actions">
@@ -60,6 +60,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
 
     <div class="pub-legend" aria-label="Venue legend">
       <strong>Legend (venues in alphabetical ordering):</strong>
+      <span class="pub-legend-key">ALENEX:</span> SIAM Symposium on Algorithm Engineering and Experiments;
       <span class="pub-legend-key">AISTATS:</span> International Conference on Artificial Intelligence and Statistics;
       <span class="pub-legend-key">CCCG:</span> Canadian Conference on Computational Geometry;
       <span class="pub-legend-key">DCC:</span> Data Compression Conference;
@@ -90,6 +91,24 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
           </tr>
         </thead>
         <tbody>
+          <tr data-topics="Computational Geometry, Graph Theory, SAT Solvers">
+            <td>
+              <strong>Geometric Graph Representations via Compact SAT Encodings</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a>, Suraj Kumar Sahoo and Aatman Supkar</td>
+            <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX</a></td>
+            <td>2027</td>
+          </tr>
+          <tr data-topics="Approximation Algorithms, Computational Geometry, Machine Learning">
+            <td>
+              <strong>Towards Learning-Guided Discovery of Extremal Geometric Constructions: A PatternBoost Study</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, Paula Carroll, Ananta Manoranjan, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a>, Ryan O'Connor, <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and Aimen Taha</td>
+            <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX</a></td>
+            <td>2027</td>
+          </tr>
           <tr data-topics="Formalized Mathematics, Number Theory">
             <td>
               <strong>On Erdős's Multiplicative Representation Problem</strong>

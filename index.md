@@ -49,7 +49,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
     <div class="pub-controls" aria-label="Publication filters">
       <div class="pub-controls-head">
         <span>Filter by topic</span>
-        <span id="pub-count">21 papers</span>
+        <span id="pub-count">22 papers</span>
       </div>
       <div id="pub-filter-chips" class="pub-filter-chips"></div>
       <div class="pub-actions">
@@ -108,6 +108,15 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://people.ucd.ie/paula.carroll" target="_blank" rel="noopener noreferrer">Paula Carroll</a>, Ananta Manoranjan, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a>, Ryan O'Connor, <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and Aimen Taha</td>
             <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX</a></td>
             <td>2027</td>
+          </tr>
+          <tr data-topics="Quantum Computing">
+            <td>
+              <strong>Random Garbage Separates XOR from Forward-Only Queries</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.ku.ac.ae/college-people/khaled-elbassioni" target="_blank" rel="noopener noreferrer">Khaled Elbassioni</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2609.03628" target="_blank" rel="noopener noreferrer">Preprint</a></td>
+            <td>2026</td>
           </tr>
           <tr data-topics="Formalized Mathematics, Number Theory">
             <td>

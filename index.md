@@ -119,7 +119,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2609.03628" target="_blank" rel="noopener noreferrer">Preprint</a></td>
             <td>2026</td>
           </tr>
-          <tr data-topics="Formalized Mathematics, Number Theory">
+          <tr data-topics="Lean Verified, Number Theory">
             <td>
               <strong>On Erdős's Multiplicative Representation Problem</strong>
               <div class="pub-tags-line"></div>
@@ -245,7 +245,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2405.12945" target="_blank" rel="noopener noreferrer">CCCG</a></td>
             <td>2024</td>
           </tr>
-          <tr data-topics="Learning Theory">
+          <tr data-topics="Machine Learning">
             <td>
               <strong>Learning Sparse Fixed-Structure Gaussian Bayesian Networks</strong>
               <div class="pub-tags-line"></div>
@@ -281,7 +281,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://dblp.org/db/conf/dcc/dcc2020.html#conf/dcc/BanchhorGSS20" target="_blank" rel="noopener noreferrer">DCC</a></td>
             <td>2020</td>
           </tr>
-          <tr data-topics="Data Compression, Deep Learning">
+          <tr data-topics="Data Compression, Machine Learning">
             <td>
               <strong>Huffman Coding Based Encoding Techniques for Fast Distributed Deep Learning</strong>
               <div class="pub-tags-line"></div>

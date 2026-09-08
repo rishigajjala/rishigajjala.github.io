@@ -281,7 +281,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://dblp.org/db/conf/dcc/dcc2020.html#conf/dcc/BanchhorGSS20" target="_blank" rel="noopener noreferrer">DCC</a></td>
             <td>2020</td>
           </tr>
-          <tr data-topics="Data Compression, Machine Learning">
+          <tr data-topics="Data Compression, Machine Learning, Distributed Computing">
             <td>
               <strong>Huffman Coding Based Encoding Techniques for Fast Distributed Deep Learning</strong>
               <div class="pub-tags-line"></div>

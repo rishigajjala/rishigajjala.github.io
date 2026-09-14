@@ -183,8 +183,8 @@ footer .d-md-none {
   border-radius: 999px;
   background: rgba(8, 127, 140, 0.1);
   color: var(--rg-teal);
-  padding: 0.22rem 0.55rem;
-  font-size: 0.75rem;
+  padding: 0.18rem 0.48rem;
+  font-size: 0.7rem;
   font-weight: 850;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -396,19 +396,16 @@ footer .d-md-none {
 
 .pub-note {
   display: block;
-  margin-top: 0.45rem;
-  font-size: 0.82rem;
-  font-weight: 750;
-  line-height: 1.4;
-}
-
-.pub-note-red {
+  margin-top: 0.35rem;
   color: #b42318 !important;
+  font-size: 0.74rem;
+  font-weight: 750;
+  line-height: 1.35;
   text-decoration-color: rgba(180, 35, 24, 0.45);
 }
 
-.pub-note-red:hover,
-.pub-note-red:focus-visible {
+.pub-note:hover,
+.pub-note:focus-visible {
   color: #8f1d13 !important;
   text-decoration-color: currentColor;
 }

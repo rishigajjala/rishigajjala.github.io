@@ -92,6 +92,15 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
           </tr>
         </thead>
         <tbody>
+          <tr data-topics="Combinatorics, Computational Geometry">
+            <td>
+              <strong>Counterexamples to Wegner's Conjecture for Rectangles</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2606.17854" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://link.springer.com/article/10.1007/BF03008396" target="_blank" rel="noopener noreferrer">Disproves a 60-year-old conjecture</a></td>
+            <td>2026</td>
+          </tr>
           <tr data-topics="Quantum Computing">
             <td>
               <strong>Random Garbage Separates XOR from Forward-Only Queries</strong>
@@ -99,15 +108,6 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             </td>
             <td>with <a href="https://www.ku.ac.ae/college-people/khaled-elbassioni" target="_blank" rel="noopener noreferrer">Khaled Elbassioni</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
             <td><a class="venue" href="https://arxiv.org/abs/2609.03628" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://arxiv.org/pdf/2109.06917" target="_blank" rel="noopener noreferrer">Solves Aaronson's Open Problem 11</a></td>
-            <td>2026</td>
-          </tr>
-          <tr data-topics="Lean Verified, Number Theory">
-            <td>
-              <strong>On Erdős's Multiplicative Representation Problem</strong>
-              <div class="pub-tags-line"></div>
-            </td>
-            <td>Proof and Lean Formalization by GPT-5.6 Sol</td>
-            <td><a class="venue" href="https://github.com/rishigajjala/erdos-796-lean" target="_blank" rel="noopener noreferrer">Lean Formalization</a><a class="pub-note" href="https://www.erdosproblems.com/796" target="_blank" rel="noopener noreferrer">Erdos 796</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Computational Geometry, Approximation Algorithms">
@@ -128,13 +128,13 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
             <td><a class="venue" href="https://arxiv.org/abs/2607.24479" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://kcik.ug.edu.pl/kcik-awards/" target="_blank" rel="noopener noreferrer">KCiK Golden Award problem</a></td>
             <td>2026</td>
           </tr>
-          <tr data-topics="Combinatorics, Computational Geometry">
+          <tr data-topics="Lean Verified, Number Theory">
             <td>
-              <strong>Counterexamples to Wegner's Conjecture for Rectangles</strong>
+              <strong>On Erdős's Multiplicative Representation Problem</strong>
               <div class="pub-tags-line"></div>
             </td>
-            <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2606.17854" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://link.springer.com/article/10.1007/BF03008396" target="_blank" rel="noopener noreferrer">Disproves a 60-year-old conjecture</a></td>
+            <td>Proof and Lean Formalization by GPT-5.6 Sol</td>
+            <td><a class="venue" href="https://github.com/rishigajjala/erdos-796-lean" target="_blank" rel="noopener noreferrer">Lean Formalization</a><a class="pub-note" href="https://www.erdosproblems.com/796" target="_blank" rel="noopener noreferrer">Erdos 796</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Graph Theory, Quantum Computing">

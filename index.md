@@ -25,7 +25,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
       </div>
     </div>
     <figure class="portrait">
-      <img src="/assets/images/headshot.jpg" alt="Rishikesh Gajjala" />
+      <img src="/assets/images/headshot.jpg?v=20260914" alt="Rishikesh Gajjala" />
     </figure>
   </section>
 

@@ -188,7 +188,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">E-JC</a><a class="pub-note" href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">E-JC</a><a class="pub-note pub-note-red" href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Combinatorics, SAT Solvers">

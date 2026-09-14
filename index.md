@@ -143,7 +143,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://quics.umd.edu/people/kishor-bharti" target="_blank" rel="noopener noreferrer">Kishor Bharti</a> and <a href="https://www.tii.ae/team/tobias-haug" target="_blank" rel="noopener noreferrer">Tobias Haug</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2607.24479" target="_blank" rel="noopener noreferrer">Preprint</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2607.24479" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://kcik.ug.edu.pl/kcik-awards/" target="_blank" rel="noopener noreferrer">KCiK Golden Award problem</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Combinatorics, Computational Geometry">

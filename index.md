@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rishikesh Gajjala
-description: Postdoc at CQTS, working broadly in theoretical computer science and exploring AI tools for Math.
+description: Founding researcher at Pramaana Labs, pushing LLMs to their limits on math.
 ---
 
 <div class="profile-page">
@@ -9,16 +9,11 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
     <div class="hero-copy">
       <h1>Rishikesh Gajjala</h1>
       <p>
-        I am a Post-Doctoral Researcher at the Center for Quantum and Topological
-        Systems (<a href="https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/cqts.html">CQTS</a>)
-        at New York University in Abu Dhabi. Before this, I completed my PhD in
-        Theoretical Computer Science at the Indian Institute of Science (IISc) and
-        my Bachelor’s degree in Computer Science at the Indian Institute of Technology,
-        Delhi (IITD).
-      </p>
-      <p>
-        I broadly work in theoretical computer science. These days, I am mostly pushing
-        LLMs to their limits on math.
+        I am a Founding researcher at
+        <a href="https://pramaanalabs.ai/" target="_blank" rel="noopener noreferrer">Pramaana Labs</a>.
+        Prior to this, I spent a wonderful decade working in theoretical computer science
+        across NYU AD, IISc, and IIT Delhi for my postdoc, PhD, and bachelor’s degree,
+        respectively. I enjoy pushing LLMs to their limits on math.
       </p>
       <div class="hero-actions" aria-label="Profile links">
         <a class="button primary" href="mailto:r.gajjala@nyu.edu">Email</a>

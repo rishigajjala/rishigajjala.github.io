@@ -116,7 +116,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.ku.ac.ae/college-people/khaled-elbassioni" target="_blank" rel="noopener noreferrer">Khaled Elbassioni</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2609.03628" target="_blank" rel="noopener noreferrer">Preprint</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2609.03628" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note pub-note-red" href="https://arxiv.org/pdf/2109.06917" target="_blank" rel="noopener noreferrer">Resolves one of Aaronson's 12 fundamental problems in Quantum Query Complexity</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Lean Verified, Number Theory">

@@ -116,7 +116,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.ku.ac.ae/college-people/khaled-elbassioni" target="_blank" rel="noopener noreferrer">Khaled Elbassioni</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2609.03628" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://arxiv.org/pdf/2109.06917" target="_blank" rel="noopener noreferrer">Resolves one of Aaronson's 12 fundamental problems in Quantum Query Complexity</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2609.03628" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://arxiv.org/pdf/2109.06917" target="_blank" rel="noopener noreferrer">Solves Aaronson's Open Problem 11</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Lean Verified, Number Theory">
@@ -134,7 +134,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.ku.ac.ae/college-people/khaled-elbassioni" target="_blank" rel="noopener noreferrer">Khaled Elbassioni</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2607.28062" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://doi.org/10.1007/3-540-45253-2_20" target="_blank" rel="noopener noreferrer">Resolves a major 25-year-old approximation problem in geometric stabbing (under UGC)</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2607.28062" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://doi.org/10.1007/3-540-45253-2_20" target="_blank" rel="noopener noreferrer">Closes a 25-year approximation gap</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Quantum Computing">
@@ -152,7 +152,7 @@ description: Postdoc at CQTS, working broadly in theoretical computer science an
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2606.17854" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://link.springer.com/article/10.1007/BF03008396" target="_blank" rel="noopener noreferrer">(disproves a 60 year old conjecture!)</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2606.17854" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://link.springer.com/article/10.1007/BF03008396" target="_blank" rel="noopener noreferrer">Disproves a 60-year-old conjecture</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Graph Theory, Quantum Computing">

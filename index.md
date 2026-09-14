@@ -11,7 +11,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
       <p>
         I am a Founding researcher at
         <a href="https://pramaanalabs.ai/" target="_blank" rel="noopener noreferrer">Pramaana Labs</a>.
-        Prior to this, I spent a wonderful decade working in theoretical computer science
+        Prior to this, I spent a wonderful decade doing theoretical computer science
         across NYU AD, IISc, and IIT Delhi for my postdoc, PhD, and bachelor’s degree,
         respectively. I enjoy pushing LLMs to their limits on math.
       </p>

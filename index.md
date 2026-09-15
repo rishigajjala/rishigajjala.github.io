@@ -44,7 +44,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
     <div class="pub-controls" aria-label="Publication filters">
       <div class="pub-controls-head">
         <span>Filter by topic</span>
-        <span id="pub-count">22 papers</span>
+        <span id="pub-count">23 papers</span>
       </div>
       <div id="pub-filter-chips" class="pub-filter-chips"></div>
       <div class="pub-actions">
@@ -184,6 +184,15 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
             </td>
             <td>single-authored</td>
             <td><a class="venue" href="https://arxiv.org/abs/2604.26101" target="_blank" rel="noopener noreferrer">ISAAC</a></td>
+            <td>2026</td>
+          </tr>
+          <tr data-topics="Graph Theory, Quantum Computing">
+            <td>
+              <strong>Connectivity bounds for GHZ graphs</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
+            <td><a class="venue" href="https://www.fsttcs.org.in/2026/" target="_blank" rel="noopener noreferrer">FSTTCS</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Combinatorics, SAT Solvers">

@@ -20,7 +20,6 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
         <a class="button" href="https://scholar.google.com/citations?user=aXWXwMIAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>
         <a class="button" href="https://dblp.org/pid/266/6291.html" target="_blank" rel="noopener noreferrer">DBLP</a>
         <a class="button" href="https://www.linkedin.com/in/rishikesh-gajjala-3100a0328/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-        <a class="button" href="https://drive.google.com/file/d/1loqwu3cp6HiecWY3VIeq1_Val2oWPVy3/view" target="_blank" rel="noopener noreferrer">Resume</a>
         <a class="button" href="https://x.com/publishiperishi" target="_blank" rel="noopener noreferrer">X</a>
       </div>
     </div>

@@ -1,0 +1,782 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="A balanced first-time UK itinerary for London, Edinburgh and the Scottish Highlands, September 26 to October 3, 2026.">
+  <meta name="theme-color" content="#0b1724">
+  <title>London & Scotland - Anjali's UK Week</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230b1724'/%3E%3Cpath d='M12 42h40M18 42l7-20h14l7 20M22 31h20' stroke='%23f5c46b' stroke-width='4' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3Ccircle cx='21' cy='47' r='3' fill='%23fffaf2'/%3E%3Ccircle cx='43' cy='47' r='3' fill='%23fffaf2'/%3E%3C/svg%3E">
+  <style>
+    :root {
+      --ink: #0b1724;
+      --ink-soft: #26394a;
+      --cream: #f1ece2;
+      --paper: #fffdf8;
+      --paper-deep: #e9e1d4;
+      --ruby: #be3345;
+      --ruby-deep: #8f2030;
+      --gold: #f5c46b;
+      --heather: #6a547d;
+      --moss: #47695c;
+      --sky: #8bb2c8;
+      --line: #d7cfc1;
+      --muted: #69737b;
+      --shadow: 0 22px 60px rgba(11, 23, 36, .12);
+      --radius: 22px;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background:
+        radial-gradient(circle at 8% 0%, rgba(245,196,107,.18), transparent 28rem),
+        linear-gradient(180deg, #f7f3ec 0%, var(--cream) 100%);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-size: 16px;
+      line-height: 1.6;
+    }
+
+    a { color: inherit; }
+    img { display: block; max-width: 100%; }
+    button, a { -webkit-tap-highlight-color: transparent; }
+    button { font: inherit; }
+    :focus-visible { outline: 3px solid var(--gold); outline-offset: 3px; }
+
+    .site-nav {
+      position: sticky;
+      inset-block-start: 0;
+      z-index: 50;
+      background: rgba(11, 23, 36, .95);
+      color: #fff;
+      border-bottom: 1px solid rgba(255,255,255,.12);
+      backdrop-filter: blur(14px);
+    }
+
+    .nav-inner {
+      width: min(1180px, calc(100% - 32px));
+      min-height: 66px;
+      margin: 0 auto;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+    }
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 11px;
+      font-weight: 800;
+      letter-spacing: -.02em;
+      white-space: nowrap;
+    }
+
+    .brand-mark {
+      width: 34px;
+      height: 34px;
+      display: grid;
+      place-items: center;
+      border-radius: 50%;
+      background: var(--gold);
+      color: var(--ink);
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: 15px;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 22px;
+      font-size: .9rem;
+    }
+
+    .nav-links a {
+      color: rgba(255,255,255,.76);
+      text-decoration: none;
+      transition: color .2s ease;
+    }
+
+    .nav-links a:hover { color: #fff; }
+
+    .print-button {
+      border: 1px solid rgba(255,255,255,.28);
+      border-radius: 999px;
+      padding: 8px 14px;
+      color: #fff;
+      background: transparent;
+      cursor: pointer;
+    }
+
+    main { overflow: hidden; }
+    .shell { width: min(1180px, calc(100% - 32px)); margin: 0 auto; }
+
+    .hero {
+      padding: 54px 0 34px;
+      display: grid;
+      grid-template-columns: minmax(0, 1.06fr) minmax(340px, .94fr);
+      gap: 28px;
+      align-items: stretch;
+    }
+
+    .hero-copy,
+    .route-board {
+      border-radius: 30px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .hero-copy {
+      min-height: 440px;
+      padding: clamp(34px, 5vw, 66px);
+      color: #fff;
+      background:
+        linear-gradient(135deg, rgba(11,23,36,.98), rgba(11,23,36,.82)),
+        url("assets/london.jpg") center/cover;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
+    }
+
+    .hero-copy::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      background: linear-gradient(120deg, transparent 60%, rgba(245,196,107,.16));
+    }
+
+    .hero-copy > * { position: relative; z-index: 1; }
+    .eyebrow {
+      margin: 0 0 12px;
+      color: var(--gold);
+      font-size: .78rem;
+      font-weight: 800;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+    }
+
+    h1, h2, h3, .day-number, .route-city {
+      font-family: Georgia, "Times New Roman", serif;
+    }
+
+    h1 {
+      max-width: 700px;
+      margin: 0;
+      font-size: clamp(3rem, 7vw, 6rem);
+      line-height: .92;
+      letter-spacing: -.055em;
+      font-weight: 500;
+    }
+
+    .hero-lede {
+      max-width: 620px;
+      margin: 26px 0 0;
+      color: rgba(255,255,255,.78);
+      font-size: clamp(1rem, 1.8vw, 1.18rem);
+    }
+
+    .hero-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 34px;
+    }
+
+    .meta-pill {
+      padding: 9px 13px;
+      border: 1px solid rgba(255,255,255,.18);
+      border-radius: 999px;
+      color: rgba(255,255,255,.92);
+      background: rgba(255,255,255,.08);
+      font-size: .9rem;
+    }
+
+    .route-board {
+      min-height: 440px;
+      padding: 34px;
+      background: var(--paper);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .route-board h2 { margin: 0; font-size: 1.75rem; letter-spacing: -.03em; }
+    .route-line { position: relative; margin: 26px 0 18px; }
+    .route-line::before {
+      content: "";
+      position: absolute;
+      inset-block: 10px;
+      inset-inline-start: 8px;
+      width: 2px;
+      background: linear-gradient(var(--ruby), var(--heather), var(--moss), var(--ruby));
+    }
+
+    .route-stop {
+      position: relative;
+      display: grid;
+      grid-template-columns: 22px 1fr auto;
+      gap: 14px;
+      align-items: center;
+      padding: 12px 0;
+    }
+
+    .route-dot {
+      width: 18px;
+      height: 18px;
+      border: 5px solid var(--paper);
+      border-radius: 50%;
+      background: var(--ruby);
+      box-shadow: 0 0 0 2px var(--ruby);
+      z-index: 1;
+    }
+
+    .route-stop:nth-child(2) .route-dot { background: var(--heather); box-shadow: 0 0 0 2px var(--heather); }
+    .route-stop:nth-child(3) .route-dot { background: var(--moss); box-shadow: 0 0 0 2px var(--moss); }
+    .route-city { font-size: 1.22rem; font-weight: 700; }
+    .route-detail { display: block; color: var(--muted); font-family: Inter, ui-sans-serif, system-ui, sans-serif; font-size: .82rem; font-weight: 500; }
+    .route-nights { color: var(--muted); font-size: .82rem; font-weight: 700; }
+
+    .route-note {
+      padding: 18px;
+      border-radius: 17px;
+      background: var(--ink);
+      color: rgba(255,255,255,.78);
+      font-size: .9rem;
+    }
+
+    .route-note strong { color: var(--gold); }
+
+    .photo-ribbon {
+      padding-bottom: 70px;
+      display: grid;
+      grid-template-columns: 1.3fr .85fr .85fr;
+      gap: 14px;
+    }
+
+    .photo-card {
+      min-height: 240px;
+      position: relative;
+      border-radius: var(--radius);
+      overflow: hidden;
+      background: var(--ink);
+    }
+
+    .photo-card img { width: 100%; height: 100%; object-fit: cover; position: absolute; inset: 0; }
+    .photo-card::after { content: ""; position: absolute; inset: 0; background: linear-gradient(transparent 45%, rgba(8,17,26,.88)); }
+    .photo-caption { position: absolute; z-index: 1; inset-inline: 20px; inset-block-end: 17px; color: #fff; }
+    .photo-caption strong { display: block; font-family: Georgia, "Times New Roman", serif; font-size: 1.25rem; }
+    .photo-caption small { color: rgba(255,255,255,.7); font-size: .72rem; }
+    .photo-caption a { color: inherit; text-underline-offset: 2px; }
+
+    .section { padding: 76px 0; }
+    .section--ink { color: #fff; background: var(--ink); }
+    .section--paper { background: rgba(255,253,248,.8); border-block: 1px solid var(--line); }
+    .section-head { display: grid; grid-template-columns: 1fr minmax(300px, .62fr); gap: 34px; align-items: end; margin-bottom: 34px; }
+    .section-kicker { margin: 0 0 8px; color: var(--ruby); font-size: .78rem; font-weight: 900; letter-spacing: .14em; text-transform: uppercase; }
+    .section--ink .section-kicker { color: var(--gold); }
+    h2 { margin: 0; font-size: clamp(2.25rem, 5vw, 4.6rem); line-height: .98; letter-spacing: -.05em; font-weight: 500; }
+    .section-intro { margin: 0; color: var(--muted); }
+    .section--ink .section-intro { color: rgba(255,255,255,.64); }
+
+    .booking-alert {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      gap: 20px;
+      align-items: center;
+      padding: 23px 26px;
+      margin-bottom: 38px;
+      border: 1px solid rgba(190,51,69,.25);
+      border-radius: var(--radius);
+      background: #fff7f5;
+    }
+
+    .alert-index { width: 42px; height: 42px; display: grid; place-items: center; border-radius: 50%; background: var(--ruby); color: #fff; font-weight: 900; }
+    .booking-alert h3 { margin: 0 0 4px; font-size: 1.2rem; }
+    .booking-alert p { margin: 0; color: var(--muted); }
+    .text-link { color: var(--ruby-deep); font-weight: 800; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+
+    .filters { display: flex; flex-wrap: wrap; gap: 9px; margin-bottom: 28px; }
+    .filter-button, .choice-button {
+      min-height: 42px;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 9px 15px;
+      color: var(--ink-soft);
+      background: rgba(255,255,255,.78);
+      cursor: pointer;
+      font-weight: 750;
+      transition: .2s ease;
+    }
+
+    .filter-button:hover, .choice-button:hover { border-color: var(--ink); transform: translateY(-1px); }
+    .filter-button[aria-pressed="true"], .choice-button[aria-pressed="true"] { color: #fff; border-color: var(--ink); background: var(--ink); }
+
+    .days { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+    .day-card {
+      position: relative;
+      padding: 28px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(255,253,248,.96);
+      box-shadow: 0 8px 25px rgba(11,23,36,.045);
+      transition: transform .25s ease, opacity .2s ease;
+    }
+
+    .day-card:hover { transform: translateY(-3px); }
+    .day-card[hidden] { display: none; }
+    .day-card--feature { grid-column: 1 / -1; display: grid; grid-template-columns: 150px minmax(0, .9fr) minmax(320px, 1.1fr); gap: 28px; align-items: start; color: #fff; background: var(--ink); border-color: var(--ink); }
+    .day-card--feature .day-date, .day-card--feature .day-summary { color: rgba(255,255,255,.62); }
+    .day-card--feature .time-list { border-color: rgba(255,255,255,.14); }
+    .day-card--feature .time-list li { border-color: rgba(255,255,255,.12); }
+    .day-card--feature .time-list span { color: rgba(255,255,255,.78); }
+    .day-card--feature .tag { color: #fff; border-color: rgba(255,255,255,.15); background: rgba(255,255,255,.1); }
+
+    .day-top { display: flex; align-items: center; gap: 16px; margin-bottom: 18px; }
+    .day-number { flex: 0 0 auto; width: 58px; height: 58px; display: grid; place-items: center; border-radius: 50%; color: #fff; background: var(--ruby); font-size: 1.5rem; }
+    .day-card[data-city="edinburgh"] .day-number { background: var(--heather); }
+    .day-card[data-city="highlands"] .day-number { background: var(--moss); }
+    .day-date { color: var(--muted); font-size: .8rem; font-weight: 800; letter-spacing: .08em; text-transform: uppercase; }
+    .day-place { font-weight: 900; }
+    .day-card h3 { margin: 0; font-size: 1.75rem; line-height: 1.08; letter-spacing: -.03em; }
+    .day-summary { margin: 10px 0 20px; color: var(--muted); }
+    .tags { display: flex; flex-wrap: wrap; gap: 7px; margin-bottom: 18px; }
+    .tag { padding: 5px 9px; border: 1px solid var(--line); border-radius: 999px; color: var(--ink-soft); background: #f6f1e9; font-size: .72rem; font-weight: 850; text-transform: uppercase; letter-spacing: .055em; }
+    .tag--book { color: #fff; border-color: var(--ruby); background: var(--ruby); }
+
+    .time-list { list-style: none; padding: 0; margin: 0; border-top: 1px solid var(--line); }
+    .time-list li { display: grid; grid-template-columns: 76px 1fr; gap: 13px; padding: 12px 0; border-bottom: 1px solid var(--line); }
+    .time-list time { color: var(--ruby-deep); font-size: .86rem; font-weight: 900; }
+    .day-card[data-city="edinburgh"] .time-list time { color: var(--heather); }
+    .day-card[data-city="highlands"] .time-list time { color: var(--moss); }
+    .time-list strong { display: block; margin-bottom: 2px; }
+    .time-list span { color: var(--muted); font-size: .9rem; }
+
+    .choice-wrap { margin-top: 20px; padding: 18px; border-radius: 18px; color: var(--ink); background: var(--cream); }
+    .choice-label { margin: 0 0 12px; font-size: .76rem; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
+    .choice-buttons { display: flex; flex-wrap: wrap; gap: 8px; }
+    .choice-panel { padding-top: 16px; }
+    .choice-panel[hidden] { display: none; }
+    .choice-panel h4 { margin: 0 0 5px; font-size: 1.02rem; }
+    .choice-panel p { margin: 0 0 10px; color: var(--ink-soft); }
+
+    .magic-grid { display: grid; grid-template-columns: 1.15fr .85fr; gap: 18px; }
+    .magic-card { min-height: 290px; padding: 30px; border: 1px solid rgba(255,255,255,.15); border-radius: var(--radius); background: rgba(255,255,255,.07); }
+    .magic-card--image { position: relative; overflow: hidden; display: flex; flex-direction: column; justify-content: end; background: #132637; }
+    .magic-card--image img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: .45; }
+    .magic-card--image::after { content: ""; position: absolute; inset: 0; background: linear-gradient(transparent, rgba(11,23,36,.95)); }
+    .magic-card > * { position: relative; z-index: 1; }
+    .magic-card h3 { margin: 0 0 8px; font-size: 1.65rem; }
+    .magic-card p { margin: 0; color: rgba(255,255,255,.67); }
+    .magic-list { display: grid; gap: 12px; margin-top: 22px; }
+    .magic-item { display: grid; grid-template-columns: 32px 1fr; gap: 12px; align-items: start; }
+    .magic-item b { width: 30px; height: 30px; display: grid; place-items: center; border-radius: 50%; color: var(--ink); background: var(--gold); font-size: .78rem; }
+    .magic-item strong { display: block; }
+    .magic-item span { color: rgba(255,255,255,.62); font-size: .88rem; }
+    .myth-note { margin-top: 20px !important; padding-top: 18px; border-top: 1px solid rgba(255,255,255,.14); font-size: .85rem; }
+
+    .booking-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(310px, .48fr); gap: 22px; align-items: start; }
+    .booking-table { overflow: hidden; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); }
+    .booking-row { display: grid; grid-template-columns: 1.4fr .55fr .52fr; gap: 18px; align-items: center; padding: 18px 22px; border-bottom: 1px solid var(--line); }
+    .booking-row:last-child { border-bottom: 0; }
+    .booking-row--head { color: var(--muted); background: #eee7dc; font-size: .75rem; font-weight: 900; text-transform: uppercase; letter-spacing: .07em; }
+    .booking-row strong { display: block; }
+    .booking-row small { color: var(--muted); }
+    .book-link { justify-self: end; padding: 8px 12px; border-radius: 999px; color: #fff; background: var(--ink); text-decoration: none; font-size: .83rem; font-weight: 800; }
+
+    .side-card { padding: 28px; border-radius: var(--radius); color: #fff; background: var(--ruby-deep); }
+    .side-card h3 { margin: 0 0 13px; font-size: 1.5rem; }
+    .side-card ol { padding-left: 20px; margin: 0; }
+    .side-card li { padding: 7px 0; color: rgba(255,255,255,.78); }
+    .side-card strong { color: #fff; }
+
+    .logistics-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+    .logistics-card { padding: 26px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--paper); }
+    .logistics-card h3 { margin: 0 0 10px; font-size: 1.25rem; }
+    .logistics-card p { margin: 0; color: var(--muted); }
+    .train-ticket { margin-top: 17px; padding: 16px; border: 1px dashed var(--line); border-radius: 15px; background: #f7f2ea; }
+    .train-ticket strong { display: block; font-size: 1.07rem; }
+    .train-ticket span { color: var(--muted); font-size: .84rem; }
+
+    .fine-print { margin-top: 24px; padding: 18px 20px; border-left: 4px solid var(--gold); color: rgba(255,255,255,.66); background: rgba(255,255,255,.05); }
+    .fine-print strong { color: #fff; }
+
+    footer { padding: 38px 0 58px; color: rgba(255,255,255,.62); background: #07111b; font-size: .84rem; }
+    .footer-grid { display: flex; justify-content: space-between; gap: 24px; align-items: end; }
+    .footer-grid p { max-width: 720px; margin: 7px 0 0; }
+    .footer-links { display: flex; flex-wrap: wrap; gap: 12px; justify-content: end; }
+    .footer-links a { color: rgba(255,255,255,.78); }
+
+    @media (max-width: 900px) {
+      .nav-links a { display: none; }
+      .hero { grid-template-columns: 1fr; }
+      .hero-copy { min-height: 410px; }
+      .route-board { min-height: auto; }
+      .photo-ribbon { grid-template-columns: 1fr 1fr; }
+      .photo-ribbon .photo-card:first-child { grid-column: 1 / -1; }
+      .section-head { grid-template-columns: 1fr; }
+      .days { grid-template-columns: 1fr; }
+      .day-card--feature { grid-column: auto; grid-template-columns: 1fr; }
+      .magic-grid, .booking-grid { grid-template-columns: 1fr; }
+      .logistics-grid { grid-template-columns: 1fr; }
+    }
+
+    @media (max-width: 620px) {
+      .nav-inner, .shell { width: min(100% - 22px, 1180px); }
+      .brand span:last-child { display: none; }
+      .hero { padding-top: 22px; gap: 14px; }
+      .hero-copy { min-height: 430px; padding: 28px 24px; border-radius: 23px; }
+      h1 { font-size: clamp(3.2rem, 18vw, 4.8rem); }
+      .route-board { padding: 25px 22px; border-radius: 23px; }
+      .photo-ribbon { grid-template-columns: 1fr; padding-bottom: 48px; }
+      .photo-ribbon .photo-card:first-child { grid-column: auto; }
+      .photo-card { min-height: 210px; }
+      .section { padding: 58px 0; }
+      .booking-alert { grid-template-columns: auto 1fr; }
+      .booking-alert .text-link { grid-column: 2; }
+      .day-card { padding: 22px 19px; }
+      .time-list li { grid-template-columns: 64px 1fr; }
+      .booking-row { grid-template-columns: 1fr auto; gap: 12px; }
+      .booking-row--head { display: none; }
+      .booking-row > div:nth-child(2) { grid-row: 2; }
+      .book-link { grid-column: 2; grid-row: 1 / span 2; }
+      .footer-grid { display: block; }
+      .footer-links { justify-content: start; margin-top: 20px; }
+    }
+
+    @media print {
+      .site-nav, .filters, .print-button, .choice-buttons { display: none !important; }
+      body { background: #fff; color: #000; }
+      .hero { padding-top: 0; }
+      .hero-copy, .route-board, .day-card, .magic-card, .logistics-card { box-shadow: none; break-inside: avoid; }
+      .hero-copy { min-height: 350px; print-color-adjust: exact; -webkit-print-color-adjust: exact; }
+      .section, .photo-ribbon { padding-block: 28px; }
+      .days { display: block; }
+      .day-card { margin-bottom: 14px; }
+      a { text-decoration: none; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after { transition: none !important; }
+    }
+  </style>
+</head>
+<body>
+  <nav class="site-nav" aria-label="Trip sections">
+    <div class="nav-inner">
+      <div class="brand"><span class="brand-mark">A</span><span>Anjali's UK Week</span></div>
+      <div class="nav-links">
+        <a href="#itinerary">Itinerary</a>
+        <a href="#magic">Potter picks</a>
+        <a href="#bookings">Book</a>
+        <a href="#logistics">Travel notes</a>
+        <button class="print-button" type="button" id="printTrip">Print / save</button>
+      </div>
+    </div>
+  </nav>
+
+  <main>
+    <div class="shell">
+      <section class="hero" aria-labelledby="trip-title">
+        <div class="hero-copy">
+          <div>
+            <p class="eyebrow">September 26 - October 3, 2026</p>
+            <h1 id="trip-title">London & Scotland</h1>
+            <p class="hero-lede">A first UK week for two: royal London, a magical rail journey north, storybook Edinburgh and one cinematic day in the Highlands.</p>
+          </div>
+          <div class="hero-meta" aria-label="Trip facts">
+            <span class="meta-pill">7 nights</span>
+            <span class="meta-pill">2 travellers</span>
+            <span class="meta-pill">Intercity trains</span>
+            <span class="meta-pill">Balanced pace</span>
+          </div>
+        </div>
+
+        <aside class="route-board" aria-label="Trip route">
+          <div>
+            <p class="eyebrow">The route</p>
+            <h2>Three chapters, one easy line</h2>
+            <div class="route-line">
+              <div class="route-stop"><span class="route-dot"></span><span class="route-city">London<span class="route-detail">Palaces, history, food and film magic</span></span><span class="route-nights">3 nights</span></div>
+              <div class="route-stop"><span class="route-dot"></span><span class="route-city">Edinburgh<span class="route-detail">Castle, Old Town and Potter atmosphere</span></span><span class="route-nights">3 nights</span></div>
+              <div class="route-stop"><span class="route-dot"></span><span class="route-city">London<span class="route-detail">A relaxed final night and market morning</span></span><span class="route-nights">1 night</span></div>
+            </div>
+          </div>
+          <div class="route-note"><strong>Why this works:</strong> the northbound and return journeys avoid the major East Coast rail closure planned for the weekend of October 3-4.</div>
+        </aside>
+      </section>
+
+      <section class="photo-ribbon" aria-label="Trip highlights">
+        <figure class="photo-card"><img src="assets/london.jpg" alt="London skyline beside the River Thames"><figcaption class="photo-caption"><strong>London</strong><small><a href="https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_seen_from_the_north_bank_of_the_Thames,_London.jpg" target="_blank" rel="noopener">Christian David / Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a> · resized</small></figcaption></figure>
+        <figure class="photo-card"><img src="assets/edinburgh.jpg" alt="Edinburgh Old Town and castle"><figcaption class="photo-caption"><strong>Edinburgh</strong><small><a href="https://commons.wikimedia.org/wiki/File:Sunset_at_Edinburgh_Castle.jpg" target="_blank" rel="noopener">Gary Campbell-Hall / Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener">CC BY 2.0</a> · resized</small></figcaption></figure>
+        <figure class="photo-card"><img src="assets/glenfinnan.jpg" alt="Train crossing Glenfinnan Viaduct in the Scottish Highlands"><figcaption class="photo-caption"><strong>Highlands</strong><small><a href="https://commons.wikimedia.org/wiki/File:A_Scottish_Adventure-_The_Jacobite_over_Glenfinnan_Viaduct.jpg" target="_blank" rel="noopener">96tommy / Wikimedia Commons</a> · <a href="https://creativecommons.org/licenses/by/2.0/" target="_blank" rel="noopener">CC BY 2.0</a> · resized</small></figcaption></figure>
+      </section>
+    </div>
+
+    <section class="section section--paper" id="itinerary">
+      <div class="shell">
+        <div class="section-head">
+          <div><p class="section-kicker">Day by day</p><h2>Your finished itinerary</h2></div>
+          <p class="section-intro">The core first-timer sights stay intact. The Potter moments are folded into places you are already visiting, and only the Highlands tour changes direction.</p>
+        </div>
+
+        <div class="booking-alert">
+          <span class="alert-index">!</span>
+          <div><h3>Book the scarce pieces first</h3><p>Buckingham Palace closes for the season on your exact visit date. Studio Tour inventory is also time-sensitive.</p></div>
+          <a class="text-link" href="#bookings">See booking order</a>
+        </div>
+
+        <div class="filters" role="group" aria-label="Filter itinerary by place">
+          <button class="filter-button" type="button" data-filter="all" aria-pressed="true">All days</button>
+          <button class="filter-button" type="button" data-filter="london" aria-pressed="false">London</button>
+          <button class="filter-button" type="button" data-filter="edinburgh" aria-pressed="false">Edinburgh</button>
+          <button class="filter-button" type="button" data-filter="highlands" aria-pressed="false">Highlands</button>
+          <button class="filter-button" type="button" data-filter="rail" aria-pressed="false">Rail days</button>
+        </div>
+
+        <div class="days" id="daysList">
+          <article class="day-card" data-city="london" data-tags="london">
+            <div class="day-top"><span class="day-number">1</span><div><div class="day-date">Saturday, Sep 26</div><div class="day-place">London</div></div></div>
+            <h3>Land softly, then meet the city</h3>
+            <p class="day-summary">Keep the arrival day atmospheric and flexible. Nothing here is painful to lose if the flight runs late.</p>
+            <div class="tags"><span class="tag">Easy pace</span><span class="tag">Food</span><span class="tag">River walk</span></div>
+            <ul class="time-list">
+              <li><time>Morning</time><div><strong>Land, transfer and leave bags</strong><span>A Bloomsbury or King's Cross base makes the following travel days especially simple.</span></div></li>
+              <li><time>13:00</time><div><strong>Borough Market lunch</strong><span>Browse rather than schedule a formal meal after the flight.</span></div></li>
+              <li><time>15:00</time><div><strong>South Bank to Covent Garden</strong><span>Walk past the Thames, theatre district and covered market at an easy pace.</span></div></li>
+              <li><time>Evening</time><div><strong>Soho dinner, early night</strong><span>Optional free MinaLima London stop only if energy and opening hours cooperate.</span></div></li>
+            </ul>
+          </article>
+
+          <article class="day-card" data-city="london" data-tags="london">
+            <div class="day-top"><span class="day-number">2</span><div><div class="day-date">Sunday, Sep 27</div><div class="day-place">London</div></div></div>
+            <h3>Museum treasures and a royal finale</h3>
+            <p class="day-summary">A rare piece of timing: this is the final 2026 opening day for Buckingham Palace's State Rooms.</p>
+            <div class="tags"><span class="tag tag--book">Book palace</span><span class="tag">History</span><span class="tag">Royal London</span></div>
+            <ul class="time-list">
+              <li><time>10:00</time><div><strong>British Museum highlights</strong><span>Choose a two-hour route: Rosetta Stone, Parthenon galleries, Egypt and Assyria.</span></div></li>
+              <li><time>12:30</time><div><strong>Lunch near St James's</strong><span>Travel by Underground toward Victoria because central road closures may affect surface traffic.</span></div></li>
+              <li><time>14:30</time><div><strong>Buckingham Palace State Rooms</strong><span>Reserve a timed entry; allow around two hours and do not book the final admission.</span></div></li>
+              <li><time>17:00</time><div><strong>St James's Park and dinner</strong><span>A scenic, low-effort finish after the palace.</span></div></li>
+            </ul>
+          </article>
+
+          <article class="day-card day-card--feature" data-city="london" data-tags="london">
+            <div>
+              <div class="day-top"><span class="day-number">3</span><div><div class="day-date">Monday, Sep 28</div><div class="day-place">London</div></div></div>
+              <div class="tags"><span class="tag tag--book">Decide now</span><span class="tag">Potter or classic</span></div>
+            </div>
+            <div>
+              <h3>Westminster, then choose your kind of magic</h3>
+              <p class="day-summary">Both versions begin together. Pick the Studio Tour if Anjali is a proper Potter fan; pick the classic route if she prefers theatre and iconic London.</p>
+              <ul class="time-list">
+                <li><time>09:30</time><div><strong>Westminster Abbey</strong><span>Book the first practical slot, then see Big Ben and Parliament outside.</span></div></li>
+                <li><time>11:30</time><div><strong>Early lunch</strong><span>Position yourselves for either Euston or St James's.</span></div></li>
+              </ul>
+            </div>
+            <div class="choice-wrap">
+              <p class="choice-label">Choose the afternoon</p>
+              <div class="choice-buttons" role="group" aria-label="Choose a plan for Monday">
+                <button class="choice-button" type="button" data-plan="potter" aria-pressed="true">Potter plan</button>
+                <button class="choice-button" type="button" data-plan="classic" aria-pressed="false">Classic plan</button>
+              </div>
+              <div class="choice-panel" data-panel="potter">
+                <h4>13:30-14:00 - Warner Bros. Studio Tour</h4>
+                <p>Train from Euston to Watford Junction, then the included electric shuttle. Your visit falls during Dark Arts: floating pumpkins, Death Eaters and Dementors. Allow 3.5-4 hours inside and a relaxed return for dinner.</p>
+                <a class="text-link" href="https://www.wbstudiotour.co.uk/tickets/" target="_blank" rel="noopener">Check official availability</a>
+              </div>
+              <div class="choice-panel" data-panel="classic" hidden>
+                <h4>13:00 - Churchill War Rooms and St James's</h4>
+                <p>Keep the history-rich London afternoon, then book Phantom of the Opera at 19:30. It is in its 40th year at the original London theatre.</p>
+                <a class="text-link" href="https://www.phantomoftheopera.com/london/tickets" target="_blank" rel="noopener">See official Phantom tickets</a>
+              </div>
+            </div>
+          </article>
+
+          <article class="day-card" data-city="london" data-tags="london rail">
+            <div class="day-top"><span class="day-number">4</span><div><div class="day-date">Tuesday, Sep 29</div><div class="day-place">London to Edinburgh</div></div></div>
+            <h3>Crown jewels, Platform 9¾, northbound</h3>
+            <p class="day-summary">A London icon and a Potter photo slot naturally lead into the most scenic intercity journey of the week.</p>
+            <div class="tags"><span class="tag tag--book">Book Tower</span><span class="tag tag--book">Book rail</span><span class="tag">Potter</span></div>
+            <ul class="time-list">
+              <li><time>09:00</time><div><strong>Tower of London</strong><span>Go straight to the Crown Jewels before exploring the White Tower and walls.</span></div></li>
+              <li><time>12:30</time><div><strong>Platform 9¾ at King's Cross</strong><span>The trolley photo is free; allow 30-45 minutes for the queue and shop.</span></div></li>
+              <li><time>14:03</time><div><strong>Direct LNER to Edinburgh</strong><span>Planned arrival 18:28. The 14:15 Lumo is a useful nearby alternative.</span></div></li>
+              <li><time>19:15</time><div><strong>Check in and easy Edinburgh dinner</strong><span>Stay near Waverley, Old Town or the eastern New Town for simple departures.</span></div></li>
+            </ul>
+          </article>
+
+          <article class="day-card" data-city="edinburgh" data-tags="edinburgh">
+            <div class="day-top"><span class="day-number">5</span><div><div class="day-date">Wednesday, Sep 30</div><div class="day-place">Edinburgh</div></div></div>
+            <h3>A storybook Old Town day</h3>
+            <p class="day-summary">The National Museum gives way to a more playful route, while the castle and best Old Town streets remain.</p>
+            <div class="tags"><span class="tag tag--book">Book castle</span><span class="tag tag--book">Reserve trail</span><span class="tag">Magic</span></div>
+            <ul class="time-list">
+              <li><time>10:00</time><div><strong>House of MinaLima</strong><span>A free gallery/shop from the designers who created the films' graphic world.</span></div></li>
+              <li><time>11:00</time><div><strong>The Potter Trail</strong><span>A theatrical 75-90 minute walk through Greyfriars and the Old Town. Free to reserve; tip the guide.</span></div></li>
+              <li><time>12:30</time><div><strong>Victoria Street and Grassmarket</strong><span>Lunch, colourful shopfronts and optional Museum Context browsing.</span></div></li>
+              <li><time>14:00</time><div><strong>Edinburgh Castle</strong><span>Allow at least 2.5 hours for the Crown Jewels, Great Hall and views.</span></div></li>
+              <li><time>18:00</time><div><strong>Calton Hill or potion night</strong><span>Choose sunset views in clear weather; in rain, book the interactive wizard-themed potions tavern.</span></div></li>
+            </ul>
+          </article>
+
+          <article class="day-card" data-city="highlands" data-tags="highlands">
+            <div class="day-top"><span class="day-number">6</span><div><div class="day-date">Thursday, Oct 1</div><div class="day-place">Scottish Highlands</div></div></div>
+            <h3>Glencoe and the Hogwarts bridge</h3>
+            <p class="day-summary">The more cinematic Highlands choice: rugged scenery, Loch Shiel and a real Harry Potter filming location.</p>
+            <div class="tags"><span class="tag tag--book">Book tour</span><span class="tag">Full day</span><span class="tag">Mini-coach</span></div>
+            <ul class="time-list">
+              <li><time>07:45</time><div><strong>Check in at Waterloo Place</strong><span>Bring layers, water and breakfast; final check-in is normally 15 minutes before departure.</span></div></li>
+              <li><time>08:00</time><div><strong>Depart Edinburgh</strong><span>Travel through Callander, Rannoch Moor and the extraordinary landscape of Glencoe.</span></div></li>
+              <li><time>Afternoon</time><div><strong>Glenfinnan Viaduct and Loch Shiel</strong><span>The tour aims to catch the Jacobite steam train crossing, but the train's operation is never guaranteed.</span></div></li>
+              <li><time>20:00</time><div><strong>Return to Edinburgh</strong><span>Keep dinner casual and close to the hotel after the long day.</span></div></li>
+            </ul>
+          </article>
+
+          <article class="day-card" data-city="edinburgh" data-tags="edinburgh rail">
+            <div class="day-top"><span class="day-number">7</span><div><div class="day-date">Friday, Oct 2</div><div class="day-place">Edinburgh to London</div></div></div>
+            <h3>A quiet morning, then south by rail</h3>
+            <p class="day-summary">Leave the final Scottish morning unhurried after the Highlands day.</p>
+            <div class="tags"><span class="tag tag--book">Book rail</span><span class="tag">Easy pace</span><span class="tag">Scenic journey</span></div>
+            <ul class="time-list">
+              <li><time>09:00</time><div><strong>Dean Village and Stockbridge</strong><span>Choose this waterside loop, or stay central for St Giles' Cathedral and Princes Street.</span></div></li>
+              <li><time>11:30</time><div><strong>Lunch and collect bags</strong><span>Be at Waverley around 13:25 rather than cutting the connection close.</span></div></li>
+              <li><time>14:00</time><div><strong>Direct LNER to London</strong><span>Planned arrival around 18:10. Returning Friday avoids the weekend line closure.</span></div></li>
+              <li><time>19:00</time><div><strong>Final London dinner</strong><span>Stay near the most convenient airport rail line or reuse your first London base.</span></div></li>
+            </ul>
+          </article>
+
+          <article class="day-card" data-city="london" data-tags="london rail">
+            <div class="day-top"><span class="day-number">8</span><div><div class="day-date">Saturday, Oct 3</div><div class="day-place">London and flight home</div></div></div>
+            <h3>Notting Hill, then a generous airport buffer</h3>
+            <p class="day-summary">A colourful final morning with no timed indoor attraction to threaten the flight.</p>
+            <div class="tags"><span class="tag">Saturday market</span><span class="tag">Flexible</span><span class="tag">Flight day</span></div>
+            <ul class="time-list">
+              <li><time>09:00</time><div><strong>Portobello Road Market</strong><span>Saturday is the main market day. Go early for calmer browsing and photographs.</span></div></li>
+              <li><time>12:30</time><div><strong>Lunch and collect bags</strong><span>Keep the afternoon near the hotel if the flight is earlier than expected.</span></div></li>
+              <li><time>Flight -4h</time><div><strong>Leave central London</strong><span>Aim to reach the airport about three hours before a long-haul flight, plus the full rail transfer time.</span></div></li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section--ink" id="magic">
+      <div class="shell">
+        <div class="section-head">
+          <div><p class="section-kicker">A little magic</p><h2>The Potter layer</h2></div>
+          <p class="section-intro">A mix of real film craft, a genuine shooting location and atmospheric fan favourites - without turning the whole holiday into a themed tour.</p>
+        </div>
+        <div class="magic-grid">
+          <article class="magic-card magic-card--image"><img src="assets/glenfinnan.jpg" alt="Glenfinnan Viaduct across the Scottish Highlands"><h3>Real screen magic</h3><p>Glenfinnan Viaduct appeared in the films; MinaLima created the graphic language seen throughout them; and the Studio Tour preserves the actual sets, costumes and props.</p></article>
+          <article class="magic-card">
+            <h3>Four easy keepsakes</h3>
+            <div class="magic-list">
+              <div class="magic-item"><b>01</b><div><strong>Platform 9¾ photograph</strong><span>Free, perfectly placed before the Edinburgh train.</span></div></div>
+              <div class="magic-item"><b>02</b><div><strong>Potter Trail</strong><span>Theatrical rather than scholarly - go for the fun.</span></div></div>
+              <div class="magic-item"><b>03</b><div><strong>MinaLima</strong><span>The strongest authentic design connection in central Edinburgh.</span></div></div>
+              <div class="magic-item"><b>04</b><div><strong>Potion evening</strong><span>Unofficial and playful; choose it as a rainy-night date activity.</span></div></div>
+            </div>
+            <p class="myth-note">Victoria Street is wonderfully Diagon Alley-like, but its supposed role as the direct inspiration is fan lore rather than a confirmed origin story.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="bookings">
+      <div class="shell">
+        <div class="section-head">
+          <div><p class="section-kicker">Reservations</p><h2>Book in this order</h2></div>
+          <p class="section-intro">Prices shown are current planning figures for adults and can change. Always use the linked official seller where possible.</p>
+        </div>
+        <div class="booking-grid">
+          <div class="booking-table" role="table" aria-label="Booking checklist">
+            <div class="booking-row booking-row--head" role="row"><div>Experience</div><div>Guide price</div><div>Action</div></div>
+            <div class="booking-row" role="row"><div><strong>Buckingham Palace State Rooms</strong><small>Sep 27 - final day of the season</small></div><div>£33 pp</div><a class="book-link" href="https://www.rct.uk/visit/buckingham-palace" target="_blank" rel="noopener">Official site</a></div>
+            <div class="booking-row" role="row"><div><strong>Warner Bros. Studio Tour</strong><small>Sep 28 - Dark Arts season; optional big choice</small></div><div>£58.50 pp</div><a class="book-link" href="https://www.wbstudiotour.co.uk/tickets/" target="_blank" rel="noopener">Check slots</a></div>
+            <div class="booking-row" role="row"><div><strong>London - Edinburgh trains</strong><small>Sep 29 outbound, Oct 2 return</small></div><div>Live fare</div><a class="book-link" href="https://www.lner.co.uk/travel-information/travelling-later/journey-planner/" target="_blank" rel="noopener">LNER</a></div>
+            <div class="booking-row" role="row"><div><strong>Glenfinnan Viaduct day tour</strong><small>Oct 1 - 08:00 to about 20:00</small></div><div>From £66 pp</div><a class="book-link" href="https://www.discoverscotlandtours.com/tours/glenfinnan-viaduct-tour-from-edinburgh/" target="_blank" rel="noopener">Tour details</a></div>
+            <div class="booking-row" role="row"><div><strong>Edinburgh Castle</strong><small>Sep 30 - target a 14:00 entry</small></div><div>£23.50 pp</div><a class="book-link" href="https://www.edinburghcastle.scot/plan-your-visit/tickets/" target="_blank" rel="noopener">Official site</a></div>
+            <div class="booking-row" role="row"><div><strong>Tower of London</strong><small>Sep 29 - first entry</small></div><div>Live price</div><a class="book-link" href="https://www.hrp.org.uk/tower-of-london/visit/tickets-and-prices/" target="_blank" rel="noopener">Official site</a></div>
+            <div class="booking-row" role="row"><div><strong>Westminster Abbey</strong><small>Sep 28 - morning entry</small></div><div>Live price</div><a class="book-link" href="https://www.westminster-abbey.org/visit-us/opening-times-and-prices" target="_blank" rel="noopener">Official site</a></div>
+            <div class="booking-row" role="row"><div><strong>Potter Trail</strong><small>Sep 30 - reserve the morning tour</small></div><div>Tip based</div><a class="book-link" href="https://www.pottertrail.com/public-tours" target="_blank" rel="noopener">Reserve</a></div>
+          </div>
+          <aside class="side-card">
+            <h3>The 20-minute booking sprint</h3>
+            <ol>
+              <li><strong>Palace first.</strong> There is no later date on this trip.</li>
+              <li><strong>Check Studio Tour inventory.</strong> If the right slot is gone, choose the Phantom plan.</li>
+              <li><strong>Lock both intercity trains.</strong> Reserve seats together.</li>
+              <li><strong>Book Glenfinnan and the castle.</strong></li>
+              <li><strong>Fill in the flexible pieces</strong> only after those anchors are confirmed.</li>
+            </ol>
+          </aside>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section--ink" id="logistics">
+      <div class="shell">
+        <div class="section-head">
+          <div><p class="section-kicker">Good to know</p><h2>Travel notes</h2></div>
+          <p class="section-intro">The timings below are your planning anchors. Recheck the operator's live journey planner 24-48 hours before each long-distance train.</p>
+        </div>
+        <div class="logistics-grid">
+          <article class="logistics-card">
+            <h3>Northbound</h3><p>Tuesday travel deliberately avoids the weekend engineering closure.</p>
+            <div class="train-ticket"><strong>London King's Cross 14:03</strong><span>LNER direct - Edinburgh 18:28 planned</span></div>
+          </article>
+          <article class="logistics-card">
+            <h3>Southbound</h3><p>Return Friday rather than departure Saturday. That protects the flight day.</p>
+            <div class="train-ticket"><strong>Edinburgh Waverley 14:00</strong><span>LNER direct - London about 18:10 planned</span></div>
+          </article>
+          <article class="logistics-card">
+            <h3>Where to stay</h3><p>London: Bloomsbury or King's Cross for Euston and rail convenience. Edinburgh: within walking distance of Waverley and Waterloo Place. Final London night: favour your airport rail line.</p>
+          </article>
+        </div>
+        <div class="fine-print"><strong>One road-based exception:</strong> the Highlands excursion is a small-group mini-coach day. The intercity journey remains entirely by direct train, and no hire car is needed anywhere.</div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="shell footer-grid">
+      <div><strong>London & Scotland - September 26 to October 3, 2026</strong><p>Built as a practical planning guide for two. Opening hours, fares, weather and operating schedules can change; recheck booked items shortly before travel.</p></div>
+      <div class="footer-links"><a href="https://www.nationalrail.co.uk/engineering-works/ncl-3-oct-20261003/" target="_blank" rel="noopener">Rail works</a><a href="https://www.kingscross.co.uk/harry-potters-platform-9-34" target="_blank" rel="noopener">Platform 9¾</a><a href="https://minalima.com/visit-us/" target="_blank" rel="noopener">MinaLima</a></div>
+    </div>
+  </footer>
+
+  <script>
+    const filterButtons = document.querySelectorAll('[data-filter]');
+    const dayCards = document.querySelectorAll('.day-card');
+
+    filterButtons.forEach((button) => {
+      button.addEventListener('click', () => {
+        const activeFilter = button.dataset.filter;
+        filterButtons.forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
+        dayCards.forEach((card) => {
+          const values = `${card.dataset.city || ''} ${card.dataset.tags || ''}`.split(' ');
+          card.hidden = activeFilter !== 'all' && !values.includes(activeFilter);
+        });
+      });
+    });
+
+    const choiceButtons = document.querySelectorAll('[data-plan]');
+    const choicePanels = document.querySelectorAll('[data-panel]');
+
+    choiceButtons.forEach((button) => {
+      button.addEventListener('click', () => {
+        const activePlan = button.dataset.plan;
+        choiceButtons.forEach((item) => item.setAttribute('aria-pressed', String(item === button)));
+        choicePanels.forEach((panel) => { panel.hidden = panel.dataset.panel !== activePlan; });
+      });
+    });
+
+    document.getElementById('printTrip').addEventListener('click', () => window.print());
+  </script>
+</body>
+</html>

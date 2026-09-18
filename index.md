@@ -86,6 +86,24 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
           </tr>
         </thead>
         <tbody>
+          <tr data-topics="Computational Geometry, Graph Theory, SAT Solvers">
+            <td>
+              <strong>Geometric Graph Representations via Compact SAT Encodings</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a>, Suraj Kumar Sahoo and Aatman Supkar</td>
+            <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX</a></td>
+            <td>2027</td>
+          </tr>
+          <tr data-topics="Approximation Algorithms, Computational Geometry, Machine Learning">
+            <td>
+              <strong>Towards Learning-Guided Discovery of Extremal Geometric Constructions: A PatternBoost Study</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://people.ucd.ie/paula.carroll" target="_blank" rel="noopener noreferrer">Paula Carroll</a>, Ananta Manoranjan, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a>, Ryan O'Connor, <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and Aimen Taha</td>
+            <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX</a></td>
+            <td>2027</td>
+          </tr>
           <tr data-topics="Combinatorics, Computational Geometry">
             <td>
               <strong>Counterexamples to Wegner's Conjecture for Rectangles</strong>
@@ -156,24 +174,6 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
             <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">E-JC</a><a class="pub-note" href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></td>
-            <td>2026</td>
-          </tr>
-          <tr data-topics="Computational Geometry, Graph Theory, SAT Solvers">
-            <td>
-              <strong>Geometric Graph Representations via Compact SAT Encodings</strong>
-              <div class="pub-tags-line"></div>
-            </td>
-            <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a>, Suraj Kumar Sahoo and Aatman Supkar</td>
-            <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX</a></td>
-            <td>2026</td>
-          </tr>
-          <tr data-topics="Approximation Algorithms, Computational Geometry, Machine Learning">
-            <td>
-              <strong>Towards Learning-Guided Discovery of Extremal Geometric Constructions: A PatternBoost Study</strong>
-              <div class="pub-tags-line"></div>
-            </td>
-            <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://people.ucd.ie/paula.carroll" target="_blank" rel="noopener noreferrer">Paula Carroll</a>, Ananta Manoranjan, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a>, Ryan O'Connor, <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and Aimen Taha</td>
-            <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Combinatorics, Graph Theory">

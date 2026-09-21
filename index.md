@@ -16,7 +16,6 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
         respectively. I enjoy pushing LLMs to their limits on math.
       </p>
       <div class="hero-actions" aria-label="Profile links">
-        <a class="button primary" href="mailto:r.gajjala@nyu.edu">Email</a>
         <a class="button" href="https://scholar.google.com/citations?user=aXWXwMIAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">Google Scholar</a>
         <a class="button" href="https://dblp.org/pid/266/6291.html" target="_blank" rel="noopener noreferrer">DBLP</a>
         <a class="button" href="https://www.linkedin.com/in/rishikesh-gajjala-3100a0328/" target="_blank" rel="noopener noreferrer">LinkedIn</a>

@@ -118,8 +118,8 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.ku.ac.ae/college-people/khaled-elbassioni" target="_blank" rel="noopener noreferrer">Khaled Elbassioni</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2609.03628" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://arxiv.org/pdf/2109.06917" target="_blank" rel="noopener noreferrer">Solves Aaronson's Open Problem 11</a></td>
-            <td>2026</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2609.03628" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://arxiv.org/pdf/2109.06917" target="_blank" rel="noopener noreferrer">Solves an open problem posed by Aaronson</a></td>
+            <td></td>
           </tr>
           <tr data-topics="Computational Geometry, Approximation Algorithms">
             <td>

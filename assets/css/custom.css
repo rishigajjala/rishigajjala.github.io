@@ -392,11 +392,11 @@ footer .d-md-none {
 
 .pub-note {
   display: block;
-  margin-top: 0.35rem;
+  margin-top: 0.3rem;
   color: #b42318 !important;
-  font-size: 0.74rem;
-  font-weight: 750;
-  line-height: 1.35;
+  font-size: max(11px, 0.7rem);
+  font-weight: 600;
+  line-height: 1.4;
   text-decoration-color: rgba(180, 35, 24, 0.45);
 }
 

@@ -65,6 +65,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
       <span class="pub-legend-key">MFCS:</span> International Symposium on Mathematical Foundations of Computer Science;
       <span class="pub-legend-key">Quantum:</span> Quantum journal;
       <span class="pub-legend-key">SAT:</span> International Conference on Theory and Applications of Satisfiability Testing;
+      <span class="pub-legend-key">SODA:</span> ACM-SIAM Symposium on Discrete Algorithms;
       <span class="pub-legend-key">STOC:</span> ACM Symposium on Theory of Computing.
     </div>
 
@@ -109,8 +110,8 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2606.17854" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://link.springer.com/article/10.1007/BF03008396" target="_blank" rel="noopener noreferrer">Disproves a 60-year-old conjecture</a></td>
-            <td>2026</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2606.17854" target="_blank" rel="noopener noreferrer">SODA</a><a class="pub-note" href="https://link.springer.com/article/10.1007/BF03008396" target="_blank" rel="noopener noreferrer">Disproves a 60-year-old conjecture</a></td>
+            <td>2027</td>
           </tr>
           <tr data-topics="Quantum Computing">
             <td>

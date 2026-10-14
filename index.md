@@ -75,14 +75,12 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
           <col class="pub-col-title">
           <col class="pub-col-authors">
           <col class="pub-col-venue">
-          <col class="pub-col-year">
         </colgroup>
         <thead>
           <tr>
             <th scope="col">Title</th>
             <th scope="col">Authors</th>
             <th scope="col">Venue</th>
-            <th scope="col">Year</th>
           </tr>
         </thead>
         <tbody>
@@ -92,8 +90,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2606.17854" target="_blank" rel="noopener noreferrer">SODA</a><a class="pub-note" href="https://link.springer.com/article/10.1007/BF03008396" target="_blank" rel="noopener noreferrer">Disproves a 60-year-old conjecture</a></td>
-            <td>2027</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2606.17854" target="_blank" rel="noopener noreferrer">SODA 2027</a><a class="pub-note" href="https://link.springer.com/article/10.1007/BF03008396" target="_blank" rel="noopener noreferrer">Disproves a 60-year-old conjecture</a></td>
           </tr>
           <tr data-topics="Computational Geometry, Graph Theory, SAT Solvers">
             <td>
@@ -101,8 +98,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a>, Suraj Kumar Sahoo and Aatman Supkar</td>
-            <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX</a></td>
-            <td>2027</td>
+            <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX 2027</a></td>
           </tr>
           <tr data-topics="Approximation Algorithms, Computational Geometry, Machine Learning">
             <td>
@@ -110,8 +106,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://people.ucd.ie/paula.carroll" target="_blank" rel="noopener noreferrer">Paula Carroll</a>, Ananta Manoranjan, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a>, Ryan O'Connor, <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and Aimen Taha</td>
-            <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX</a></td>
-            <td>2027</td>
+            <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX 2027</a></td>
           </tr>
           <tr data-topics="Quantum Computing">
             <td>
@@ -120,7 +115,6 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
             </td>
             <td>with <a href="https://www.ku.ac.ae/college-people/khaled-elbassioni" target="_blank" rel="noopener noreferrer">Khaled Elbassioni</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
             <td><a class="venue" href="https://arxiv.org/abs/2609.03628" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://arxiv.org/pdf/2109.06917" target="_blank" rel="noopener noreferrer">Resolves one of Aaronson's questions on Quantum Query Complexity</a></td>
-            <td></td>
           </tr>
           <tr data-topics="Computational Geometry, Approximation Algorithms">
             <td>
@@ -128,8 +122,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.ku.ac.ae/college-people/khaled-elbassioni" target="_blank" rel="noopener noreferrer">Khaled Elbassioni</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2607.28062" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://doi.org/10.1007/3-540-45253-2_20" target="_blank" rel="noopener noreferrer">Closes several decades-old questions on Geometric Stabbing</a></td>
-            <td>2026</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2607.28062" target="_blank" rel="noopener noreferrer">Preprint 2026</a><a class="pub-note" href="https://doi.org/10.1007/3-540-45253-2_20" target="_blank" rel="noopener noreferrer">Closes several decades-old questions on Geometric Stabbing</a></td>
           </tr>
           <tr data-topics="Quantum Computing">
             <td>
@@ -137,8 +130,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://quics.umd.edu/people/kishor-bharti" target="_blank" rel="noopener noreferrer">Kishor Bharti</a> and <a href="https://www.tii.ae/team/tobias-haug" target="_blank" rel="noopener noreferrer">Tobias Haug</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2607.24479" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://kcik.ug.edu.pl/kcik-awards/" target="_blank" rel="noopener noreferrer">Solves KCiK Golden Award problem</a></td>
-            <td>2026</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2607.24479" target="_blank" rel="noopener noreferrer">Preprint 2026</a><a class="pub-note" href="https://kcik.ug.edu.pl/kcik-awards/" target="_blank" rel="noopener noreferrer">Solves KCiK Golden Award problem</a></td>
           </tr>
           <tr data-topics="Lean Verified, Number Theory">
             <td>
@@ -146,8 +138,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>Proof and Lean Formalization by GPT-5.6 Sol</td>
-            <td><a class="venue" href="https://github.com/rishigajjala/erdos-796-lean" target="_blank" rel="noopener noreferrer">Lean Formalization</a><a class="pub-note" href="https://www.erdosproblems.com/796" target="_blank" rel="noopener noreferrer">Erdos 796</a></td>
-            <td>2026</td>
+            <td><a class="venue" href="https://github.com/rishigajjala/erdos-796-lean" target="_blank" rel="noopener noreferrer">Lean Formalization 2026</a><a class="pub-note" href="https://www.erdosproblems.com/796" target="_blank" rel="noopener noreferrer">Erdos 796</a></td>
           </tr>
           <tr data-topics="Graph Theory, Quantum Computing">
             <td>
@@ -155,8 +146,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and <a href="https://www.thilikos.info/" target="_blank" rel="noopener noreferrer">Dimitrios M. Thilikos</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2605.04855" target="_blank" rel="noopener noreferrer">Preprint</a></td>
-            <td>2026</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2605.04855" target="_blank" rel="noopener noreferrer">Preprint 2026</a></td>
           </tr>
           <tr data-topics="Combinatorics, SAT Solvers">
             <td>
@@ -164,8 +154,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://dblp.org/pid/14/3919.html" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://www.cs.toronto.edu/~meel/" target="_blank" rel="noopener noreferrer">Kuldeep S. Meel</a></td>
-            <td><a class="venue" href="https://dblp.org/db/journals/jcta/jcta222.html#journals/jcta/ChandranGM26" target="_blank" rel="noopener noreferrer">JCTA</a></td>
-            <td>2026</td>
+            <td><a class="venue" href="https://dblp.org/db/journals/jcta/jcta222.html#journals/jcta/ChandranGM26" target="_blank" rel="noopener noreferrer">JCTA 2026</a></td>
           </tr>
           <tr data-topics="Graph Theory, Quantum Computing">
             <td>
@@ -173,8 +162,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">E-JC</a><a class="pub-note" href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></td>
-            <td>2026</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2202.05562" target="_blank" rel="noopener noreferrer">E-JC 2026</a><a class="pub-note" href="https://mariokrenn.wordpress.com/graph-theory-question/" target="_blank" rel="noopener noreferrer">Quantum-Graph Best-Paper Award</a></td>
           </tr>
           <tr data-topics="Combinatorics, Graph Theory">
             <td>
@@ -182,8 +170,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>single-authored</td>
-            <td><a class="venue" href="https://arxiv.org/abs/2604.26101" target="_blank" rel="noopener noreferrer">ISAAC</a></td>
-            <td>2026</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2604.26101" target="_blank" rel="noopener noreferrer">ISAAC 2026</a></td>
           </tr>
           <tr data-topics="Graph Theory, Quantum Computing">
             <td>
@@ -191,8 +178,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
-            <td><a class="venue" href="https://www.fsttcs.org.in/2026/" target="_blank" rel="noopener noreferrer">FSTTCS</a></td>
-            <td>2026</td>
+            <td><a class="venue" href="https://www.fsttcs.org.in/2026/" target="_blank" rel="noopener noreferrer">FSTTCS 2026</a></td>
           </tr>
           <tr data-topics="Combinatorics, SAT Solvers">
             <td>
@@ -200,8 +186,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://www.cs.toronto.edu/~meel/" target="_blank" rel="noopener noreferrer">Kuldeep Meel</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2506.07268" target="_blank" rel="noopener noreferrer">SAT</a></td>
-            <td>2025</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2506.07268" target="_blank" rel="noopener noreferrer">SAT 2025</a></td>
           </tr>
           <tr data-topics="Graph Theory, Quantum Computing, Distributed Computing">
             <td>
@@ -209,8 +194,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://scholar.google.com/citations?user=FVy9CeAAAAAJ&amp;hl=fr" target="_blank" rel="noopener noreferrer">Xavier Coiteux-Roy</a>, <a href="https://fdamore95.github.io" target="_blank" rel="noopener noreferrer">Francesco d'Amore</a>, <a href="https://ac.informatik.uni-freiburg.de/kuhn/" target="_blank" rel="noopener noreferrer">Fabian Kuhn</a>, <a href="http://francoislegall.com" target="_blank" rel="noopener noreferrer">François Le Gall</a>, <a href="https://henriklievonen.fi" target="_blank" rel="noopener noreferrer">Henrik Lievonen</a>, <a href="https://augusto.modanese.net" target="_blank" rel="noopener noreferrer">Augusto Modanese</a>, <a href="https://marcolivierrenou.com" target="_blank" rel="noopener noreferrer">Marc-Olivier Renou</a>, <a href="https://ac.informatik.uni-freiburg.de/schmid/" target="_blank" rel="noopener noreferrer">Gustav Schmid</a> and <a href="https://jukkasuomela.fi" target="_blank" rel="noopener noreferrer">Jukka Suomela</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2307.09444" target="_blank" rel="noopener noreferrer">STOC</a></td>
-            <td>2024</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2307.09444" target="_blank" rel="noopener noreferrer">STOC 2024</a></td>
           </tr>
           <tr data-topics="Graph Theory, Quantum Computing">
             <td>
@@ -218,8 +202,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2304.06407" target="_blank" rel="noopener noreferrer">Quantum</a></td>
-            <td>2024</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2304.06407" target="_blank" rel="noopener noreferrer">Quantum 2024</a></td>
           </tr>
           <tr data-topics="Graph Theory, Quantum Computing">
             <td>
@@ -227,8 +210,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a> and <a href="https://scholar.google.com/citations?user=7OqTFMYAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Abraham M. Illickan</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2407.00303" target="_blank" rel="noopener noreferrer">MFCS</a></td>
-            <td>2024</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2407.00303" target="_blank" rel="noopener noreferrer">MFCS 2024</a></td>
           </tr>
           <tr data-topics="Approximation Algorithms">
             <td>
@@ -236,8 +218,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a>, Shravan Mehra, <a href="https://scholar.google.co.in/citations?user=CuqCFEYAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Saladi Rahul</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2407.16323" target="_blank" rel="noopener noreferrer">FSTTCS</a></td>
-            <td>2024</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2407.16323" target="_blank" rel="noopener noreferrer">FSTTCS 2024</a></td>
           </tr>
           <tr data-topics="Combinatorics, Computational Geometry">
             <td>
@@ -245,8 +226,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with Jayanth Ravi</td>
-            <td><a class="venue" href="https://arxiv.org/abs/2405.12945" target="_blank" rel="noopener noreferrer">CCCG</a></td>
-            <td>2024</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2405.12945" target="_blank" rel="noopener noreferrer">CCCG 2024</a></td>
           </tr>
           <tr data-topics="Machine Learning">
             <td>
@@ -254,8 +234,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.dcs.warwick.ac.uk/~u2470130/" target="_blank" rel="noopener noreferrer">Arnab Bhattacharyya</a>, <a href="https://cxjdavin.github.io" target="_blank" rel="noopener noreferrer">Davin Choo</a>, <a href="https://www.cse.iitk.ac.in/users/sutanu/" target="_blank" rel="noopener noreferrer">Sutanu Gayen</a> and <a href="https://yohannawang.com" target="_blank" rel="noopener noreferrer">Yuhao Wang</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2107.10450" target="_blank" rel="noopener noreferrer">AISTATS</a></td>
-            <td>2022</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2107.10450" target="_blank" rel="noopener noreferrer">AISTATS 2022</a></td>
           </tr>
           <tr data-topics="Approximation Algorithms, Data Compression">
             <td>
@@ -263,8 +242,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.linkedin.com/in/shashwat-banchhor-a0305012a" target="_blank" rel="noopener noreferrer">Shashwat Banchhor</a>, <a href="https://sites.google.com/view/yogishsabharwal/" target="_blank" rel="noopener noreferrer">Yogish Sabharwal</a> and <a href="https://www.cse.iitd.ac.in/~ssen/" target="_blank" rel="noopener noreferrer">Sandeep Sen</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2010.05005" target="_blank" rel="noopener noreferrer">FSTTCS</a></td>
-            <td>2021</td>
+            <td><a class="venue" href="https://arxiv.org/abs/2010.05005" target="_blank" rel="noopener noreferrer">FSTTCS 2021</a></td>
           </tr>
           <tr data-topics="Approximation Algorithms, Data Compression">
             <td>
@@ -272,8 +250,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.linkedin.com/in/shashwat-banchhor-a0305012a" target="_blank" rel="noopener noreferrer">Shashwat Banchhor</a>, <a href="https://sites.google.com/view/yogishsabharwal/" target="_blank" rel="noopener noreferrer">Yogish Sabharwal</a> and <a href="https://www.cse.iitd.ac.in/~ssen/" target="_blank" rel="noopener noreferrer">Sandeep Sen</a></td>
-            <td><a class="venue" href="https://dblp.org/db/conf/dcc/dcc2021.html#conf/dcc/BanchhorGSS21" target="_blank" rel="noopener noreferrer">DCC</a></td>
-            <td>2021</td>
+            <td><a class="venue" href="https://dblp.org/db/conf/dcc/dcc2021.html#conf/dcc/BanchhorGSS21" target="_blank" rel="noopener noreferrer">DCC 2021</a></td>
           </tr>
           <tr data-topics="Data Compression">
             <td>
@@ -281,8 +258,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.linkedin.com/in/shashwat-banchhor-a0305012a" target="_blank" rel="noopener noreferrer">Shashwat Banchhor</a>, <a href="https://sites.google.com/view/yogishsabharwal/" target="_blank" rel="noopener noreferrer">Yogish Sabharwal</a> and <a href="https://www.cse.iitd.ac.in/~ssen/" target="_blank" rel="noopener noreferrer">Sandeep Sen</a></td>
-            <td><a class="venue" href="https://dblp.org/db/conf/dcc/dcc2020.html#conf/dcc/BanchhorGSS20" target="_blank" rel="noopener noreferrer">DCC</a></td>
-            <td>2020</td>
+            <td><a class="venue" href="https://dblp.org/db/conf/dcc/dcc2020.html#conf/dcc/BanchhorGSS20" target="_blank" rel="noopener noreferrer">DCC 2020</a></td>
           </tr>
           <tr data-topics="Data Compression, Machine Learning, Distributed Computing">
             <td>
@@ -290,8 +266,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.linkedin.com/in/shashwat-banchhor-a0305012a" target="_blank" rel="noopener noreferrer">Shashwat Banchhor</a>, <a href="http://eecs.qmul.ac.uk/~ahmed/" target="_blank" rel="noopener noreferrer">Ahmed Sayed</a>, <a href="https://sciences.ucf.edu/math/person/aritra-dutta/" target="_blank" rel="noopener noreferrer">Aritra Dutta</a>, <a href="https://mcanini.github.io" target="_blank" rel="noopener noreferrer">Marco Canini</a>, <a href="https://scholar.google.com/citations?user=-NdSrrYAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Panos Kalnis</a></td>
-            <td><a class="venue" href="https://dl.acm.org/doi/10.1145/3426745.3431334" target="_blank" rel="noopener noreferrer">DistributedML</a></td>
-            <td>2020</td>
+            <td><a class="venue" href="https://dl.acm.org/doi/10.1145/3426745.3431334" target="_blank" rel="noopener noreferrer">DistributedML 2020</a></td>
           </tr>
         </tbody>
       </table>

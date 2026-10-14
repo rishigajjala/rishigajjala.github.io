@@ -307,7 +307,7 @@ footer .d-md-none {
 
 .pub-table {
   width: 100%;
-  min-width: 760px;
+  min-width: 700px;
   border-collapse: collapse;
   margin: 0;
   color: var(--rg-text);
@@ -323,11 +323,7 @@ footer .d-md-none {
 }
 
 .pub-col-venue {
-  width: 12%;
-}
-
-.pub-col-year {
-  width: 8%;
+  width: 20%;
 }
 
 .pub-table th,

@@ -86,6 +86,15 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
           </tr>
         </thead>
         <tbody>
+          <tr data-topics="Combinatorics, Computational Geometry">
+            <td>
+              <strong>Counterexamples to Wegner's Conjecture for Rectangles</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2606.17854" target="_blank" rel="noopener noreferrer">SODA</a><a class="pub-note" href="https://link.springer.com/article/10.1007/BF03008396" target="_blank" rel="noopener noreferrer">Disproves a 60-year-old conjecture</a></td>
+            <td>2027</td>
+          </tr>
           <tr data-topics="Computational Geometry, Graph Theory, SAT Solvers">
             <td>
               <strong>Geometric Graph Representations via Compact SAT Encodings</strong>
@@ -102,15 +111,6 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
             </td>
             <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://people.ucd.ie/paula.carroll" target="_blank" rel="noopener noreferrer">Paula Carroll</a>, Ananta Manoranjan, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a>, Ryan O'Connor, <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and Aimen Taha</td>
             <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX</a></td>
-            <td>2027</td>
-          </tr>
-          <tr data-topics="Combinatorics, Computational Geometry">
-            <td>
-              <strong>Counterexamples to Wegner's Conjecture for Rectangles</strong>
-              <div class="pub-tags-line"></div>
-            </td>
-            <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2606.17854" target="_blank" rel="noopener noreferrer">SODA</a><a class="pub-note" href="https://link.springer.com/article/10.1007/BF03008396" target="_blank" rel="noopener noreferrer">Disproves a 60-year-old conjecture</a></td>
             <td>2027</td>
           </tr>
           <tr data-topics="Quantum Computing">

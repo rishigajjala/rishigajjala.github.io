@@ -124,11 +124,11 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
           </tr>
           <tr data-topics="Computational Geometry, Approximation Algorithms">
             <td>
-              <strong>Tight UGC Thresholds for Geometric Stabbing Problems</strong>
+              <strong>Tight Approximation Thresholds for Geometric Stabbing</strong>
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.ku.ac.ae/college-people/khaled-elbassioni" target="_blank" rel="noopener noreferrer">Khaled Elbassioni</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2607.28062" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://doi.org/10.1007/3-540-45253-2_20" target="_blank" rel="noopener noreferrer">Closes a 25-year approximation gap</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2607.28062" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://doi.org/10.1007/3-540-45253-2_20" target="_blank" rel="noopener noreferrer">Closes several decades-old questions on Geometric Stabbing</a></td>
             <td>2026</td>
           </tr>
           <tr data-topics="Quantum Computing">

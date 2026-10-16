@@ -178,7 +178,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
-            <td><a class="venue" href="https://www.fsttcs.org.in/2026/" target="_blank" rel="noopener noreferrer">FSTTCS 2026</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2610.22190" target="_blank" rel="noopener noreferrer">FSTTCS 2026</a></td>
           </tr>
           <tr data-topics="Combinatorics, SAT Solvers">
             <td>

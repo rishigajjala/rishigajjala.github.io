@@ -98,7 +98,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a>, Suraj Kumar Sahoo and Aatman Supkar</td>
-            <td><a class="venue" href="https://www.siam.org/conferences-events/siam-conferences/soda27/" target="_blank" rel="noopener noreferrer">ALENEX 2027</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2610.22241" target="_blank" rel="noopener noreferrer">ALENEX 2027</a></td>
           </tr>
           <tr data-topics="Approximation Algorithms, Computational Geometry, Machine Learning">
             <td>

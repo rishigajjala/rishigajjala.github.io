@@ -114,7 +114,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~arindamkhan/" target="_blank" rel="noopener noreferrer">Arindam Khan</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2611.03190" target="_blank" rel="noopener noreferrer">Preprint 2026</a><a class="pub-note" href="https://doi.org/10.1137/0220046" target="_blank" rel="noopener noreferrer">Resolves a 35-year-old conjecture: asymptotic weighted Vizing theorem</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2611.03190" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://doi.org/10.1137/0220046" target="_blank" rel="noopener noreferrer">Resolves a 35-year-old conjecture: asymptotic weighted Vizing theorem</a></td>
           </tr>
           <tr data-topics="Quantum Computing">
             <td>
@@ -130,7 +130,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.ku.ac.ae/college-people/khaled-elbassioni" target="_blank" rel="noopener noreferrer">Khaled Elbassioni</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2607.28062" target="_blank" rel="noopener noreferrer">Preprint 2026</a><a class="pub-note" href="https://doi.org/10.1007/3-540-45253-2_20" target="_blank" rel="noopener noreferrer">Closes several decades-old questions on Geometric Stabbing</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2607.28062" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://doi.org/10.1007/3-540-45253-2_20" target="_blank" rel="noopener noreferrer">Closes several decades-old questions on Geometric Stabbing</a></td>
           </tr>
           <tr data-topics="Quantum Computing">
             <td>
@@ -138,7 +138,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://quics.umd.edu/people/kishor-bharti" target="_blank" rel="noopener noreferrer">Kishor Bharti</a> and <a href="https://www.tii.ae/team/tobias-haug" target="_blank" rel="noopener noreferrer">Tobias Haug</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2607.24479" target="_blank" rel="noopener noreferrer">Preprint 2026</a><a class="pub-note" href="https://kcik.ug.edu.pl/kcik-awards/" target="_blank" rel="noopener noreferrer">Solves KCiK Golden Award problem</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2607.24479" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://kcik.ug.edu.pl/kcik-awards/" target="_blank" rel="noopener noreferrer">Solves KCiK Golden Award problem</a></td>
           </tr>
           <tr data-topics="Lean Verified, Number Theory">
             <td>
@@ -154,7 +154,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and <a href="https://www.thilikos.info/" target="_blank" rel="noopener noreferrer">Dimitrios M. Thilikos</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2605.04855" target="_blank" rel="noopener noreferrer">Preprint 2026</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2605.04855" target="_blank" rel="noopener noreferrer">Preprint</a></td>
           </tr>
           <tr data-topics="Combinatorics, SAT Solvers">
             <td>

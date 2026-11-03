@@ -114,7 +114,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~arindamkhan/" target="_blank" rel="noopener noreferrer">Arindam Khan</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2611.03190" target="_blank" rel="noopener noreferrer">Preprint 2026</a><a class="pub-note" href="https://arxiv.org/abs/2611.03190" target="_blank" rel="noopener noreferrer">Resolves a decades-old problem: asymptotic weighted Vizing theorem</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2611.03190" target="_blank" rel="noopener noreferrer">Preprint 2026</a><a class="pub-note" href="https://doi.org/10.1137/0220046" target="_blank" rel="noopener noreferrer">Resolves a 35-year-old conjecture: asymptotic weighted Vizing theorem</a></td>
           </tr>
           <tr data-topics="Quantum Computing">
             <td>

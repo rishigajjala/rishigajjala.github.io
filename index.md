@@ -114,7 +114,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2611.04444" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://doi.org/10.1109/TIT.1961.1057615" target="_blank" rel="noopener noreferrer">Resolves Richard Karp's 65-year-old problem</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2611.04444" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://doi.org/10.1109/TIT.1961.1057615" target="_blank" rel="noopener noreferrer">Resolves Karp's 65-year-old problem</a></td>
           </tr>
           <tr data-topics="Graph Theory, Combinatorics, Approximation Algorithms, Lean Verified">
             <td>

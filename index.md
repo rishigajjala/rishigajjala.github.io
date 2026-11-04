@@ -42,7 +42,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
     <div class="pub-controls" aria-label="Publication filters">
       <div class="pub-controls-head">
         <span>Filter by topic</span>
-        <span id="pub-count">24 papers</span>
+        <span id="pub-count">25 papers</span>
       </div>
       <div id="pub-filter-chips" class="pub-filter-chips"></div>
       <div class="pub-actions">
@@ -108,6 +108,14 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
             <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://people.ucd.ie/paula.carroll" target="_blank" rel="noopener noreferrer">Paula Carroll</a>, Ananta Manoranjan, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a>, Ryan O'Connor, <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and Aimen Taha</td>
             <td><a class="venue" href="https://arxiv.org/abs/2610.19980" target="_blank" rel="noopener noreferrer">ALENEX 2027</a></td>
           </tr>
+          <tr data-topics="Data Compression, Computational Complexity">
+            <td>
+              <strong>Binary Huffman Coding with Unequal Letter Costs Is NP-Complete</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://www.csa.iisc.ac.in/~sunil/" target="_blank" rel="noopener noreferrer">L. Sunil Chandran</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2611.04444" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://doi.org/10.1109/TIT.1961.1057615" target="_blank" rel="noopener noreferrer">Resolves Richard Karp's 65-year-old problem</a></td>
+          </tr>
           <tr data-topics="Graph Theory, Combinatorics, Approximation Algorithms, Lean Verified">
             <td>
               <strong>Asymptotically Optimal Weighted Edge Colorings via Local Bin Packing</strong>
@@ -118,7 +126,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
           </tr>
           <tr data-topics="Quantum Computing">
             <td>
-              <strong>Random Garbage Separates XOR from Forward-Only Queries</strong>
+              <strong>Random Garbage Creates Exponential Quantum Query Separations</strong>
               <div class="pub-tags-line"></div>
             </td>
             <td>with <a href="https://www.ku.ac.ae/college-people/khaled-elbassioni" target="_blank" rel="noopener noreferrer">Khaled Elbassioni</a> and <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a></td>

@@ -42,7 +42,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
     <div class="pub-controls" aria-label="Publication filters">
       <div class="pub-controls-head">
         <span>Filter by topic</span>
-        <span id="pub-count">25 papers</span>
+        <span id="pub-count">26 papers</span>
       </div>
       <div id="pub-filter-chips" class="pub-filter-chips"></div>
       <div class="pub-actions">
@@ -107,6 +107,14 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
             </td>
             <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://people.ucd.ie/paula.carroll" target="_blank" rel="noopener noreferrer">Paula Carroll</a>, Ananta Manoranjan, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a>, Ryan O'Connor, <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and Aimen Taha</td>
             <td><a class="venue" href="https://arxiv.org/abs/2610.19980" target="_blank" rel="noopener noreferrer">ALENEX 2027</a></td>
+          </tr>
+          <tr data-topics="Approximation Algorithms, Data Compression">
+            <td>
+              <strong>The Greedy Superstring Conjecture Is False</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>with <a href="https://buyolitsez.github.io/" target="_blank" rel="noopener noreferrer">Nikolai Chukhin</a>, <a href="https://juhaharviainen.com/" target="_blank" rel="noopener noreferrer">Juha Harviainen</a>, <a href="https://alexanderskulikov.github.io/" target="_blank" rel="noopener noreferrer">Alexander S. Kulikov</a>, <a href="https://www.pdmi.ras.ru/pdmi/en/staff/ivan-mihajlin" target="_blank" rel="noopener noreferrer">Ivan Mihajlin</a>, <a href="https://shibh308.github.io/en/" target="_blank" rel="noopener noreferrer">Hiroki Shibata</a> and <a href="https://avsmal.github.io/" target="_blank" rel="noopener noreferrer">Alexander V. Smal</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2609.01365" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://doi.org/10.1016/0304-3975(88)90167-3" target="_blank" rel="noopener noreferrer">Disproves a 38-year-old conjecture</a></td>
           </tr>
           <tr data-topics="Data Compression, Computational Complexity">
             <td>

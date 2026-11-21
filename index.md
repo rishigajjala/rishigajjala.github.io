@@ -113,8 +113,8 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <strong>A Tensor-Algebraic No-Go Theorem for High-Dimensional Photonic Greenberger–Horne–Zeilinger States Discovered with AlphaProof Nexus</strong>
               <div class="pub-tags-line"></div>
             </td>
-            <td><a href="https://mariokrenn.wordpress.com/" target="_blank" rel="noopener noreferrer">Mario Krenn</a>, <a href="https://firsching.ch/" target="_blank" rel="noopener noreferrer">Moritz Firsching</a>, <a href="https://georgetsoukalas.github.io/" target="_blank" rel="noopener noreferrer">George Tsoukalas</a>, Rishikesh Gajjala, <a href="https://www.acp.uni-jena.de/5764/ai-quantum-science" target="_blank" rel="noopener noreferrer">Xuemei Gu</a> and <a href="https://www.cs.utexas.edu/~swarat/" target="_blank" rel="noopener noreferrer">Swarat Chaudhuri</a> <small>(arXiv order)</small></td>
-            <td><a class="venue" href="https://arxiv.org/abs/2611.26300" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://github.com/google-deepmind/formal-conjectures/blob/af88acbf9da0f26e3e934743a819e986e02f6875/FormalConjectures/Paper/MonochromaticQuantumGraph.lean" target="_blank" rel="noopener noreferrer">Lean proof</a></td>
+            <td>with <a href="https://mariokrenn.wordpress.com/" target="_blank" rel="noopener noreferrer">Mario Krenn</a>, <a href="https://firsching.ch/" target="_blank" rel="noopener noreferrer">Moritz Firsching</a>, <a href="https://georgetsoukalas.github.io/" target="_blank" rel="noopener noreferrer">George Tsoukalas</a>, <a href="https://www.acp.uni-jena.de/5764/ai-quantum-science" target="_blank" rel="noopener noreferrer">Xuemei Gu</a> and <a href="https://www.cs.utexas.edu/~swarat/" target="_blank" rel="noopener noreferrer">Swarat Chaudhuri</a></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2611.26300" target="_blank" rel="noopener noreferrer">Preprint</a></td>
           </tr>
           <tr data-topics="Approximation Algorithms, Data Compression">
             <td>

@@ -42,7 +42,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
     <div class="pub-controls" aria-label="Publication filters">
       <div class="pub-controls-head">
         <span>Filter by topic</span>
-        <span id="pub-count">26 papers</span>
+        <span id="pub-count">27 papers</span>
       </div>
       <div id="pub-filter-chips" class="pub-filter-chips"></div>
       <div class="pub-actions">
@@ -107,6 +107,14 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
             </td>
             <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://people.ucd.ie/paula.carroll" target="_blank" rel="noopener noreferrer">Paula Carroll</a>, Ananta Manoranjan, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a>, Ryan O'Connor, <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and Aimen Taha</td>
             <td><a class="venue" href="https://arxiv.org/abs/2610.19980" target="_blank" rel="noopener noreferrer">ALENEX 2027</a></td>
+          </tr>
+          <tr data-topics="Graph Theory, Quantum Computing">
+            <td>
+              <strong>A Tensor-Algebraic No-Go Theorem for High-Dimensional Photonic Greenberger–Horne–Zeilinger States Discovered with AlphaProof Nexus</strong>
+              <div class="pub-tags-line"></div>
+            </td>
+            <td>Mario Krenn, Moritz Firsching, George Tsoukalas, Rishikesh Gajjala, Xuemei Gu and Swarat Chaudhuri <em>(paper author order)</em></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2611.26300" target="_blank" rel="noopener noreferrer">Preprint</a></td>
           </tr>
           <tr data-topics="Approximation Algorithms, Data Compression">
             <td>

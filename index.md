@@ -113,7 +113,7 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
               <strong>A Tensor-Algebraic No-Go Theorem for High-Dimensional Photonic Greenberger–Horne–Zeilinger States Discovered with AlphaProof Nexus</strong>
               <div class="pub-tags-line"></div>
             </td>
-            <td>Mario Krenn, Moritz Firsching, George Tsoukalas, Rishikesh Gajjala, Xuemei Gu and Swarat Chaudhuri <em>(paper author order)</em></td>
+            <td>with Mario Krenn, Moritz Firsching, George Tsoukalas, Xuemei Gu and Swarat Chaudhuri</td>
             <td><a class="venue" href="https://arxiv.org/abs/2611.26300" target="_blank" rel="noopener noreferrer">Preprint</a></td>
           </tr>
           <tr data-topics="Approximation Algorithms, Data Compression">

@@ -108,13 +108,13 @@ description: Founding researcher at Pramaana Labs, pushing LLMs to their limits 
             <td>with <a href="https://people.ucd.ie/deepak.ajwani" target="_blank" rel="noopener noreferrer">Deepak Ajwani</a>, <a href="https://people.ucd.ie/paula.carroll" target="_blank" rel="noopener noreferrer">Paula Carroll</a>, Ananta Manoranjan, <a href="https://rajivraman.weebly.com/" target="_blank" rel="noopener noreferrer">Rajiv Raman</a>, Ryan O'Connor, <a href="https://nyuad.nyu.edu/en/academics/divisions/science/faculty/saurabh-ray.html" target="_blank" rel="noopener noreferrer">Saurabh Ray</a> and Aimen Taha</td>
             <td><a class="venue" href="https://arxiv.org/abs/2610.19980" target="_blank" rel="noopener noreferrer">ALENEX 2027</a></td>
           </tr>
-          <tr data-topics="Graph Theory, Quantum Computing">
+          <tr data-topics="Graph Theory, Quantum Computing, Lean Verified">
             <td>
               <strong>A Tensor-Algebraic No-Go Theorem for High-Dimensional Photonic Greenberger–Horne–Zeilinger States Discovered with AlphaProof Nexus</strong>
               <div class="pub-tags-line"></div>
             </td>
-            <td>with Mario Krenn, Moritz Firsching, George Tsoukalas, Xuemei Gu and Swarat Chaudhuri</td>
-            <td><a class="venue" href="https://arxiv.org/abs/2611.26300" target="_blank" rel="noopener noreferrer">Preprint</a></td>
+            <td><a href="https://mariokrenn.wordpress.com/" target="_blank" rel="noopener noreferrer">Mario Krenn</a>, <a href="https://firsching.ch/" target="_blank" rel="noopener noreferrer">Moritz Firsching</a>, <a href="https://georgetsoukalas.github.io/" target="_blank" rel="noopener noreferrer">George Tsoukalas</a>, Rishikesh Gajjala, <a href="https://www.acp.uni-jena.de/5764/ai-quantum-science" target="_blank" rel="noopener noreferrer">Xuemei Gu</a> and <a href="https://www.cs.utexas.edu/~swarat/" target="_blank" rel="noopener noreferrer">Swarat Chaudhuri</a> <small>(arXiv order)</small></td>
+            <td><a class="venue" href="https://arxiv.org/abs/2611.26300" target="_blank" rel="noopener noreferrer">Preprint</a><a class="pub-note" href="https://github.com/google-deepmind/formal-conjectures/blob/af88acbf9da0f26e3e934743a819e986e02f6875/FormalConjectures/Paper/MonochromaticQuantumGraph.lean" target="_blank" rel="noopener noreferrer">Lean proof</a></td>
           </tr>
           <tr data-topics="Approximation Algorithms, Data Compression">
             <td>
